@@ -1,0 +1,2243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="80 367 1184 291"
+	 style="enable-background:new 80 367 1184 291;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#3B465A;}
+	.st1{fill:#59719B;}
+	.st2{fill:#FFFFFF;}
+	.st3{opacity:0.2537;fill:#FFFFFF;enable-background:new    ;}
+	.st4{fill:#EFEDED;}
+	.st5{filter:url(#Adobe_OpacityMaskFilter);}
+	.st6{mask:url(#mask-2);fill:#FFAB03;}
+	.st7{filter:url(#Adobe_OpacityMaskFilter_1_);}
+	.st8{mask:url(#mask-4);fill:#FFB803;}
+	.st9{filter:url(#Adobe_OpacityMaskFilter_2_);}
+	.st10{mask:url(#mask-6);fill:#FFB803;}
+	.st11{filter:url(#Adobe_OpacityMaskFilter_3_);}
+	.st12{mask:url(#mask-8);fill:#FF8B09;}
+	.st13{filter:url(#Adobe_OpacityMaskFilter_4_);}
+	.st14{mask:url(#mask-10);fill:#EF7E04;}
+	.st15{filter:url(#Adobe_OpacityMaskFilter_5_);}
+	.st16{mask:url(#mask-12);fill:#172D67;}
+	.st17{fill:#D46F01;}
+	.st18{filter:url(#Adobe_OpacityMaskFilter_6_);}
+	.st19{mask:url(#mask-14);fill:#172D67;}
+	.st20{filter:url(#Adobe_OpacityMaskFilter_7_);}
+	.st21{mask:url(#mask-16);fill:#D46F01;}
+	.st22{filter:url(#Adobe_OpacityMaskFilter_8_);}
+	.st23{mask:url(#mask-18);fill:#172D67;}
+	.st24{fill:#39D7FF;}
+	.st25{filter:url(#Adobe_OpacityMaskFilter_9_);}
+	.st26{mask:url(#mask-20);fill:#0C1C49;}
+	.st27{filter:url(#Adobe_OpacityMaskFilter_10_);}
+	.st28{mask:url(#mask-22);fill:#172D67;}
+	.st29{filter:url(#Adobe_OpacityMaskFilter_11_);}
+	.st30{mask:url(#mask-24);fill:#39D7FF;}
+	.st31{filter:url(#Adobe_OpacityMaskFilter_12_);}
+	.st32{mask:url(#mask-26);fill:#0C1C49;}
+	.st33{clip-path:url(#SVGID_3_);}
+	.st34{clip-path:url(#SVGID_7_);}
+	.st35{clip-path:url(#SVGID_11_);}
+	.st36{clip-path:url(#SVGID_15_);}
+	.st37{clip-path:url(#SVGID_19_);}
+	.st38{clip-path:url(#SVGID_23_);}
+	.st39{clip-path:url(#SVGID_27_);}
+	.st40{clip-path:url(#SVGID_31_);}
+	.st41{clip-path:url(#SVGID_35_);}
+	.st42{clip-path:url(#SVGID_39_);}
+	.st43{clip-path:url(#SVGID_43_);}
+	.st44{clip-path:url(#SVGID_47_);}
+	.st45{clip-path:url(#SVGID_51_);}
+	.st46{filter:url(#Adobe_OpacityMaskFilter_13_);}
+	.st47{mask:url(#mask-28);fill:#D46F01;}
+	.st48{filter:url(#Adobe_OpacityMaskFilter_14_);}
+	.st49{mask:url(#mask-30);fill:#FFFFFF;}
+	.st50{filter:url(#Adobe_OpacityMaskFilter_15_);}
+	.st51{mask:url(#mask-32);fill:#FFFFFF;}
+	.st52{filter:url(#Adobe_OpacityMaskFilter_16_);}
+	.st53{mask:url(#mask-34);fill:#FFFFFF;}
+	.st54{filter:url(#Adobe_OpacityMaskFilter_17_);}
+	.st55{mask:url(#mask-36);fill:#FFFFFF;}
+	.st56{filter:url(#Adobe_OpacityMaskFilter_18_);}
+	.st57{mask:url(#mask-38);fill:#FFFFFF;}
+	.st58{filter:url(#Adobe_OpacityMaskFilter_19_);}
+	.st59{mask:url(#mask-40);fill:#FFFFFF;}
+	.st60{filter:url(#Adobe_OpacityMaskFilter_20_);}
+	.st61{mask:url(#mask-42);fill:#E5E5E5;}
+	.st62{filter:url(#Adobe_OpacityMaskFilter_21_);}
+	.st63{mask:url(#mask-44);fill:#E5E5E5;}
+	.st64{filter:url(#Adobe_OpacityMaskFilter_22_);}
+	.st65{mask:url(#mask-46);fill:#D46F01;}
+	.st66{filter:url(#Adobe_OpacityMaskFilter_23_);}
+	.st67{mask:url(#mask-48);fill:#D46F01;}
+	.st68{filter:url(#Adobe_OpacityMaskFilter_24_);}
+	.st69{mask:url(#mask-50);fill:#FF8C09;}
+	.st70{filter:url(#Adobe_OpacityMaskFilter_25_);}
+	.st71{mask:url(#mask-52);fill:#FF8C09;}
+	.st72{filter:url(#Adobe_OpacityMaskFilter_26_);}
+	.st73{mask:url(#mask-54);fill:#FADB10;}
+	.st74{filter:url(#Adobe_OpacityMaskFilter_27_);}
+	.st75{mask:url(#mask-56);fill:#D1D1D1;}
+	.st76{filter:url(#Adobe_OpacityMaskFilter_28_);}
+	.st77{mask:url(#mask-58);fill:#ACACAC;}
+	.st78{filter:url(#Adobe_OpacityMaskFilter_29_);}
+	.st79{mask:url(#mask-60);fill:#D8D8D8;}
+	.st80{filter:url(#Adobe_OpacityMaskFilter_30_);}
+	.st81{mask:url(#mask-62);fill:#ACACAC;}
+	.st82{filter:url(#Adobe_OpacityMaskFilter_31_);}
+	.st83{mask:url(#mask-64);fill:#D1D1D1;}
+	.st84{filter:url(#Adobe_OpacityMaskFilter_32_);}
+	.st85{mask:url(#mask-66);fill:#ACACAC;}
+	.st86{filter:url(#Adobe_OpacityMaskFilter_33_);}
+	.st87{mask:url(#mask-68);fill:#D8D8D8;}
+	.st88{filter:url(#Adobe_OpacityMaskFilter_34_);}
+	.st89{mask:url(#mask-70);fill:#ACACAC;}
+	.st90{fill:#979797;}
+	.st91{filter:url(#Adobe_OpacityMaskFilter_35_);}
+	.st92{mask:url(#mask-72);fill:#FFAB03;}
+	.st93{filter:url(#Adobe_OpacityMaskFilter_36_);}
+	.st94{mask:url(#mask-74);fill:#ECAA01;}
+	.st95{filter:url(#Adobe_OpacityMaskFilter_37_);}
+	.st96{mask:url(#mask-76);fill:#FFAB03;}
+	.st97{filter:url(#Adobe_OpacityMaskFilter_38_);}
+	.st98{mask:url(#mask-78);fill:#FFAB03;}
+	.st99{filter:url(#Adobe_OpacityMaskFilter_39_);}
+	.st100{mask:url(#mask-80);fill:#FFAB03;}
+	.st101{filter:url(#Adobe_OpacityMaskFilter_40_);}
+	.st102{mask:url(#mask-82);fill:#FFAB03;}
+	.st103{filter:url(#Adobe_OpacityMaskFilter_41_);}
+	.st104{mask:url(#mask-84);fill:#FFAB03;}
+	.st105{filter:url(#Adobe_OpacityMaskFilter_42_);}
+	.st106{mask:url(#mask-86);fill:#FFAB03;}
+	.st107{filter:url(#Adobe_OpacityMaskFilter_43_);}
+	.st108{mask:url(#mask-88);fill:#FFAB03;}
+	.st109{filter:url(#Adobe_OpacityMaskFilter_44_);}
+	.st110{mask:url(#mask-90);fill:#FFAB03;}
+	.st111{opacity:9.748134e-02;fill:#FFFFFF;enable-background:new    ;}
+	.st112{font-family:'STHeiti';}
+	.st113{font-size:14px;}
+	.st114{font-size:12px;}
+	.st115{filter:url(#Adobe_OpacityMaskFilter_45_);}
+	.st116{mask:url(#mask-92);fill:#FFD000;}
+	.st117{filter:url(#Adobe_OpacityMaskFilter_46_);}
+	.st118{mask:url(#mask-94);fill:#FFD000;}
+	.st119{filter:url(#Adobe_OpacityMaskFilter_47_);}
+	.st120{mask:url(#mask-96);fill:#ECAE00;}
+	.st121{filter:url(#Adobe_OpacityMaskFilter_48_);}
+	.st122{mask:url(#mask-98);fill:#ECAE00;}
+	.st123{filter:url(#Adobe_OpacityMaskFilter_49_);}
+	.st124{mask:url(#mask-100);fill:#FFB600;}
+	.st125{clip-path:url(#SVGID_55_);}
+	.st126{clip-path:url(#SVGID_59_);}
+	.st127{filter:url(#Adobe_OpacityMaskFilter_50_);}
+	.st128{mask:url(#mask-102);fill:#FFFFFF;}
+	.st129{filter:url(#Adobe_OpacityMaskFilter_51_);}
+	.st130{mask:url(#mask-104);fill:#545454;}
+	.st131{filter:url(#Adobe_OpacityMaskFilter_52_);}
+	.st132{mask:url(#mask-106);fill:#EC9F2C;}
+	.st133{filter:url(#Adobe_OpacityMaskFilter_53_);}
+	.st134{mask:url(#mask-108);fill:#65AA39;}
+	.st135{filter:url(#Adobe_OpacityMaskFilter_54_);}
+	.st136{mask:url(#mask-110);fill:#79CA45;}
+	.st137{filter:url(#Adobe_OpacityMaskFilter_55_);}
+	.st138{mask:url(#mask-112);fill:#B2B2B2;}
+	.st139{filter:url(#Adobe_OpacityMaskFilter_56_);}
+	.st140{mask:url(#mask-114);fill:#D8D8D8;}
+	.st141{filter:url(#Adobe_OpacityMaskFilter_57_);}
+	.st142{mask:url(#mask-116);fill:#FFD000;}
+	.st143{fill:#FFD000;}
+	.st144{filter:url(#Adobe_OpacityMaskFilter_58_);}
+	.st145{mask:url(#mask-118);fill:#D16E2F;}
+	.st146{filter:url(#Adobe_OpacityMaskFilter_59_);}
+	.st147{mask:url(#mask-120);fill:#FFD000;}
+	.st148{filter:url(#Adobe_OpacityMaskFilter_60_);}
+	.st149{mask:url(#mask-122);fill:#FFD000;}
+	.st150{filter:url(#Adobe_OpacityMaskFilter_61_);}
+	.st151{mask:url(#mask-124);fill:#F4A100;}
+	.st152{filter:url(#Adobe_OpacityMaskFilter_62_);}
+	.st153{mask:url(#mask-126);fill:#F4A100;}
+	.st154{filter:url(#Adobe_OpacityMaskFilter_63_);}
+	.st155{mask:url(#mask-128);fill:#F4A100;}
+	.st156{filter:url(#Adobe_OpacityMaskFilter_64_);}
+	.st157{mask:url(#mask-130);fill:#F4A100;}
+	.st158{filter:url(#Adobe_OpacityMaskFilter_65_);}
+	.st159{mask:url(#mask-132);fill:#F4A100;}
+	.st160{opacity:9.695663e-02;fill:#FFFFFF;enable-background:new    ;}
+	.st161{filter:url(#Adobe_OpacityMaskFilter_66_);}
+	.st162{mask:url(#mask-134);fill:#42EDFF;}
+	.st163{filter:url(#Adobe_OpacityMaskFilter_67_);}
+	.st164{mask:url(#mask-136);fill:#42EDFF;}
+	.st165{filter:url(#Adobe_OpacityMaskFilter_68_);}
+	.st166{mask:url(#mask-138);fill:#FFB803;}
+	.st167{filter:url(#Adobe_OpacityMaskFilter_69_);}
+	.st168{mask:url(#mask-140);fill:#FFB803;}
+	.st169{filter:url(#Adobe_OpacityMaskFilter_70_);}
+	.st170{mask:url(#mask-142);fill:#FFDD03;}
+	.st171{filter:url(#Adobe_OpacityMaskFilter_71_);}
+	.st172{mask:url(#mask-144);fill:#F9BB10;}
+	.st173{filter:url(#Adobe_OpacityMaskFilter_72_);}
+	.st174{mask:url(#mask-146);fill:#F88C17;}
+	.st175{filter:url(#Adobe_OpacityMaskFilter_73_);}
+	.st176{mask:url(#mask-148);fill:#FFAB03;}
+	.st177{filter:url(#Adobe_OpacityMaskFilter_74_);}
+	.st178{mask:url(#mask-150);fill:#FFAB03;}
+	.st179{filter:url(#Adobe_OpacityMaskFilter_75_);}
+	.st180{mask:url(#mask-152);fill:#FFAB03;}
+	.st181{filter:url(#Adobe_OpacityMaskFilter_76_);}
+	.st182{mask:url(#mask-154);fill:#FFAB03;}
+	.st183{filter:url(#Adobe_OpacityMaskFilter_77_);}
+	.st184{mask:url(#mask-156);fill:#FFAB03;}
+	.st185{filter:url(#Adobe_OpacityMaskFilter_78_);}
+	.st186{mask:url(#mask-158);fill:#FFAB03;}
+	.st187{filter:url(#Adobe_OpacityMaskFilter_79_);}
+	.st188{mask:url(#mask-160);fill:#FFAB03;}
+	.st189{filter:url(#Adobe_OpacityMaskFilter_80_);}
+	.st190{mask:url(#mask-162);fill:#FFAB03;}
+	.st191{filter:url(#Adobe_OpacityMaskFilter_81_);}
+	.st192{mask:url(#mask-164);fill:#F88C17;}
+	.st193{filter:url(#Adobe_OpacityMaskFilter_82_);}
+	.st194{mask:url(#mask-166);fill:#D46F01;}
+	.st195{filter:url(#Adobe_OpacityMaskFilter_83_);}
+	.st196{mask:url(#mask-168);fill:#D46F01;}
+	.st197{clip-path:url(#SVGID_63_);}
+	.st198{clip-path:url(#SVGID_67_);}
+	.st199{clip-path:url(#SVGID_71_);}
+	.st200{clip-path:url(#SVGID_75_);}
+	.st201{clip-path:url(#SVGID_79_);}
+	.st202{filter:url(#Adobe_OpacityMaskFilter_84_);}
+	.st203{mask:url(#mask-170);fill:#FFFFFF;}
+	.st204{filter:url(#Adobe_OpacityMaskFilter_85_);}
+	.st205{mask:url(#mask-172);fill:#545454;}
+	.st206{filter:url(#Adobe_OpacityMaskFilter_86_);}
+	.st207{mask:url(#mask-174);fill:#463F3F;}
+	.st208{fill:#E34747;}
+	.st209{filter:url(#Adobe_OpacityMaskFilter_87_);}
+	.st210{mask:url(#mask-176);fill:#B0541A;}
+	.st211{filter:url(#Adobe_OpacityMaskFilter_88_);}
+	.st212{mask:url(#mask-178);fill:#A1D57F;}
+	.st213{fill:#B0FFF2;}
+	.st214{filter:url(#Adobe_OpacityMaskFilter_89_);}
+	.st215{mask:url(#mask-180);fill:#F9BB10;}
+	.st216{opacity:9.689832e-02;fill:#FFFFFF;enable-background:new    ;}
+</style>
+<title>Imported Layers + Imported Layers Copy 5 + Group</title>
+<desc>Created with Sketch.</desc>
+<g id="Page-1" sketch:type="MSPage">
+	<g id="首页" transform="translate(0.000000, -2634.000000)" sketch:type="MSArtboardGroup">
+		
+			<g id="Imported-Layers-_x2B_-Imported-Layers-Copy-5-_x2B_-Group" transform="translate(-2.000000, 2634.000000)" sketch:type="MSLayerGroup">
+			<g id="Imported-Layers-_x2B_-Imported-Layers-Copy-5" transform="translate(0.000000, 103.000000)" sketch:type="MSShapeGroup">
+				<path id="Shape" class="st0" d="M84,530.8c29.9,10.1,69.7,7.7,117.9-4.7c24.5-6.3,50.4-14.9,78.3-25.8
+					c18.3-7.1,30.6-12.2,58.4-24.2c33.9-14.6,67.2-22.2,100.8-20.9c41.2,1.5,80.9,16.4,119,47.2c37.3,30.2,82.2,46.9,128,49
+					c43.5,2.1,85.3-9.2,117-31.6c8.3-5.9,17.5-14.7,30.7-29.1c0.2-0.2,27.6-30.6,36.3-39.9c32.5-34.3,59.8-55.9,89.2-66.7
+					c36.8-13.6,73.8-8.2,112.9,20.1c21.5,15.5,40.2,31.5,60.4,51c7.3,7,38.4,38.1,46.6,45.9c30.9,29.1,56.5,45.3,91.5,54.7
+					c2.4,0.7,4.9-0.8,5.6-3.2c0.7-2.4-0.8-4.9-3.2-5.6c-33.4-9-57.7-24.4-87.6-52.5c-8.1-7.6-39.1-38.7-46.6-45.8
+					c-20.5-19.7-39.6-36-61.4-51.8c-41.5-30.1-81.7-35.9-121.4-21.2c-31,11.4-59.3,33.7-92.7,69c-8.8,9.3-36.3,39.8-36.4,40
+					c-12.8,13.9-21.5,22.4-29.2,27.8c-30,21.1-69.8,31.9-111.4,29.9c-43.9-2.1-86.9-18.1-122.7-47c-39.6-32-81.2-47.6-124.4-49.2
+					c-35.1-1.3-69.7,6.6-104.8,21.7c-27.8,12-39.9,17.1-58.1,24.1c-27.6,10.7-53.2,19.2-77.3,25.4c-46.7,12-84.9,14.3-112.7,4.9
+					c-2.4-0.8-5,0.5-5.8,2.9C80.3,527.4,81.6,530,84,530.8L84,530.8z"/>
+				<path id="Shape_1_" class="st1" d="M84.9,528.2c29.3,9.9,68.6,7.5,116.3-4.7c24.4-6.3,50.2-14.9,78-25.7
+					c18.3-7.1,30.5-12.2,58.3-24.2c34.2-14.7,68-22.4,102-21.2c41.8,1.6,82.1,16.7,120.6,47.8c36.9,29.8,81.2,46.3,126.4,48.4
+					c42.9,2,84.1-9.1,115.3-31.1c8.1-5.7,17.2-14.4,30.2-28.7c0.2-0.2,27.6-30.6,36.3-39.9c32.7-34.6,60.4-56.4,90.3-67.4
+					c37.6-13.9,75.6-8.4,115.4,20.4c21.6,15.6,40.4,31.7,60.7,51.2c7.4,7.1,38.4,38.2,46.6,45.9c30.6,28.8,55.8,44.7,90.3,54.1
+					c1,0.3,2-0.3,2.2-1.3c0.3-1-0.3-2-1.3-2.2c-33.8-9.1-58.6-24.7-88.8-53.2c-8.1-7.7-39.2-38.7-46.6-45.8
+					c-20.5-19.6-39.4-35.8-61.1-51.6c-40.8-29.5-80-35.2-118.8-20.9c-30.5,11.3-58.6,33.3-91.7,68.3c-8.8,9.3-36.2,39.8-36.3,39.9
+					c-12.9,14.1-21.8,22.6-29.6,28.2c-30.5,21.5-70.9,32.4-113.1,30.4c-44.4-2.1-88-18.3-124.3-47.6c-39.1-31.6-80.2-47-122.7-48.6
+					c-34.7-1.3-68.9,6.5-103.6,21.5c-27.8,12-40,17.1-58.2,24.2c-27.7,10.7-53.4,19.3-77.6,25.5c-47.1,12.1-85.8,14.4-114.3,4.8
+					c-1-0.3-2,0.2-2.3,1.1C83.4,526.8,83.9,527.9,84.9,528.2L84.9,528.2z"/>
+			</g>
+			<g id="Group_1_" transform="translate(157.000000, 0.000000)">
+				
+					<g id="Oval-32-Copy-_x2B_-Oval-32-Copy-3-_x2B_-Oval-26-_x2B_-Oval-26-Copy-_x2B_-Group-_x2B_-Path-1046-Copy-Copy-_x2B_-Group-Copy-9" transform="translate(0.000000, 112.000000)">
+					<g id="Oval-32-Copy-_x2B_-Oval-32-Copy-3" transform="translate(35.000000, 106.000000)" sketch:type="MSShapeGroup">
+						<ellipse id="Oval-32-Copy" class="st2" cx="91.2" cy="379" rx="6.6" ry="6.6"/>
+						<ellipse id="Oval-32-Copy-3" class="st3" cx="91.2" cy="379" rx="11.1" ry="11.1"/>
+					</g>
+					
+						<g id="Oval-26-_x2B_-Oval-26-Copy-_x2B_-Group-_x2B_-Path-1046-Copy-Copy" transform="translate(0.682859, 0.656207)" sketch:type="MSShapeGroup">
+						<g id="Oval-26-_x2B_-Oval-26-Copy-_x2B_-Group">
+							<circle id="Oval-26" class="st2" cx="124" cy="411" r="44"/>
+							<circle id="Oval-26-Copy" class="st4" cx="124" cy="411" r="35.9"/>
+						</g>
+						<path id="Path-1046" class="st2" d="M115,452.9l9,10.2v-10.9L115,452.9z M133,452.9l-9,10.2v-10.9L133,452.9z"/>
+					</g>
+					<g id="Group-Copy-9" transform="translate(7.682859, 15.934725)">
+						<g id="Group-136" transform="translate(46.032283, 12.771462)">
+							<g id="Clip-135">
+							</g>
+							<defs>
+								<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="80.1" y="367.3" width="1" height="1.1">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							<mask maskUnits="userSpaceOnUse" x="80.1" y="367.3" width="1" height="1.1" id="mask-2">
+								<g class="st5">
+									<path id="path-1" class="st2" d="M80.6,368.4c0.3,0,0.5-0.3,0.5-0.6c0-0.3-0.2-0.6-0.5-0.6c-0.3,0-0.5,0.3-0.5,0.6
+										C80.1,368.1,80.3,368.4,80.6,368.4L80.6,368.4z"/>
+								</g>
+							</mask>
+							<path id="Fill-134" sketch:type="MSShapeGroup" class="st6" d="M80.1,367.3h1v1.1h-1V367.3z"/>
+						</g>
+						<g id="Group-139" transform="translate(22.570250, 45.427519)">
+							<g id="Clip-138">
+							</g>
+							<defs>
+								<filter id="Adobe_OpacityMaskFilter_1_" filterUnits="userSpaceOnUse" x="79.2" y="367.1" width="6.3" height="14.5">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							<mask maskUnits="userSpaceOnUse" x="79.2" y="367.1" width="6.3" height="14.5" id="mask-4">
+								<g class="st7">
+									<path id="path-3" class="st2" d="M80.2,379.8c-0.9-1.7,2.7-1.7,3.2-3.1c0.8-2.2,0.1-8,0.1-8c-0.1-0.9,0.6-1.6,1.5-1.6h-1.1
+										c0.9,0,1.6,0.7,1.6,1.6v10.1c0,0.9-0.7,1.6-1.6,1.6H85c-0.9,0-2.3,0.2-3.2,0.3C81.8,380.8,81.1,381.6,80.2,379.8
+										L80.2,379.8z"/>
+								</g>
+							</mask>
+							<path id="Fill-137" sketch:type="MSShapeGroup" class="st8" d="M79.2,367.1h6.3v14.5h-6.3V367.1z"/>
+						</g>
+						<g id="Group-142" transform="translate(47.987452, 45.427519)">
+							<g id="Clip-141">
+							</g>
+							<defs>
+								<filter id="Adobe_OpacityMaskFilter_2_" filterUnits="userSpaceOnUse" x="80" y="367.1" width="5.4" height="14">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							<mask maskUnits="userSpaceOnUse" x="80" y="367.1" width="5.4" height="14" id="mask-6">
+								<g class="st9">
+									<path id="path-5" class="st2" d="M80,368.7c0-0.9,0.7-1.6,1.6-1.6h-1c0.9,0,1.6,0.7,1.6,1.6v7.7c0,2,3.2,2,2.3,3.3
+										c-0.8,1.3-0.8,0.7-0.8,0.7c-0.9,0-2.3,0-3.2,0h1c-0.9,0-1.6-0.7-1.6-1.6V368.7L80,368.7z"/>
+								</g>
+							</mask>
+							<path id="Fill-140" sketch:type="MSShapeGroup" class="st10" d="M80,367.1h5.4v14H80V367.1z"/>
+						</g>
+						<g id="Group-145" transform="translate(11.230268, 4.115639)">
+							<g id="Clip-144">
+							</g>
+							<defs>
+								<filter id="Adobe_OpacityMaskFilter_3_" filterUnits="userSpaceOnUse" x="80.3" y="367.1" width="50.6" height="50.9">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							<mask maskUnits="userSpaceOnUse" x="80.3" y="367.1" width="50.6" height="50.9" id="mask-8">
+								<g class="st11">
+									<path id="path-7" class="st2" d="M105.6,418.1c14,0,25.3-11.4,25.3-25.5c0-14.1-11.3-25.5-25.3-25.5
+										c-14,0-25.3,11.4-25.3,25.5C80.3,406.7,91.6,418.1,105.6,418.1L105.6,418.1z"/>
+								</g>
+							</mask>
+							<path id="Fill-143" sketch:type="MSShapeGroup" class="st12" d="M80.3,367.1h50.6v50.9H80.3V367.1z"/>
+						</g>
+						<g id="Group-148" transform="translate(11.621302, 30.476553)">
+							<g id="Clip-147">
+							</g>
+							<defs>
+								<filter id="Adobe_OpacityMaskFilter_4_" filterUnits="userSpaceOnUse" x="78" y="355.1" width="53.5" height="43">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							<mask maskUnits="userSpaceOnUse" x="78" y="355.1" width="53.5" height="43" id="mask-10">
+								<g class="st13">
+									<path id="path-9" class="st2" d="M111.4,390.2c5.7-1.4,10.5-4.7,13.9-9.1c1.5-1.9,2.5-3.2,2.5-4.3
+										c-0.2-2.1-7.1,4.3-10.7,5.7c-6.4,2.4-10,3.9-18.8,1.7c-3-0.8-7.8-4-10.3-6.5c-4.7-4.7-6.9-10.1-7.6-10.5
+										c-0.3-0.2-0.5,1,0.3,4.3C84.1,385.3,97.8,393.6,111.4,390.2"/>
+								</g>
+							</mask>
+							<path id="Fill-146" sketch:type="MSShapeGroup" class="st14" d="M78,366.5l45.7-11.5l7.8,31.5l-45.7,11.5L78,366.5"/>
+						</g>
+						<g id="Group-151" transform="translate(20.615081, 21.033837)">
+							<g id="Clip-150">
+							</g>
+							<defs>
+								<filter id="Adobe_OpacityMaskFilter_5_" filterUnits="userSpaceOnUse" x="80.1" y="367.1" width="14.3" height="14.4">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							<mask maskUnits="userSpaceOnUse" x="80.1" y="367.1" width="14.3" height="14.4" id="mask-12">
+								<g class="st15">
+									<path id="path-11" class="st2" d="M87.3,381.5c4,0,7.2-3.2,7.2-7.2c0-4-3.2-7.2-7.2-7.2c-4,0-7.2,3.2-7.2,7.2
+										C80.1,378.3,83.3,381.5,87.3,381.5L87.3,381.5z"/>
+								</g>
+							</mask>
+							<path id="Fill-149" sketch:type="MSShapeGroup" class="st16" d="M80.1,367.1h14.3v14.4H80.1V367.1z"/>
+						</g>
+						<path id="Fill-152" sketch:type="MSShapeGroup" class="st17" d="M107.9,402.6v1.4c2.4,0,4.5-1,6-2.5c1.5-1.5,2.5-3.7,2.5-6.1
+							c0-2.4-1-4.5-2.5-6.1c-1.5-1.5-3.7-2.5-6-2.5c-2.3,0-4.5,1-6,2.5c-1.5,1.5-2.5,3.7-2.5,6.1c0,2.4,1,4.5,2.5,6.1
+							c1.5,1.6,3.7,2.5,6,2.5v-2.7c-1.6,0-3.1-0.7-4.1-1.7c-1.1-1.1-1.7-2.5-1.7-4.1c0-1.6,0.6-3.1,1.7-4.1c1.1-1.1,2.5-1.7,4.1-1.7
+							c1.6,0,3.1,0.7,4.1,1.7c1.1,1.1,1.7,2.5,1.7,4.1c0,1.6-0.6,3.1-1.7,4.1c-1.1,1.1-2.5,1.7-4.1,1.7V402.6"/>
+						<g id="Group-155" transform="translate(37.820571, 21.033837)">
+							<g id="Clip-154">
+							</g>
+							<defs>
+								<filter id="Adobe_OpacityMaskFilter_6_" filterUnits="userSpaceOnUse" x="80.3" y="367.1" width="14.3" height="14.4">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							<mask maskUnits="userSpaceOnUse" x="80.3" y="367.1" width="14.3" height="14.4" id="mask-14">
+								<g class="st18">
+									<path id="path-13" class="st2" d="M87.5,381.5c4,0,7.2-3.2,7.2-7.2c0-4-3.2-7.2-7.2-7.2c-4,0-7.2,3.2-7.2,7.2
+										C80.3,378.3,83.5,381.5,87.5,381.5L87.5,381.5z"/>
+								</g>
+							</mask>
+							<path id="Fill-153" sketch:type="MSShapeGroup" class="st19" d="M80.3,367.1h14.3v14.4H80.3V367.1z"/>
+						</g>
+						<path id="Fill-156" sketch:type="MSShapeGroup" class="st17" d="M125.3,402.6v1.4c2.4,0,4.5-1,6-2.5c1.5-1.5,2.5-3.7,2.5-6.1
+							c0-2.4-1-4.5-2.5-6.1c-1.5-1.5-3.7-2.5-6-2.5c-2.3,0-4.5,1-6,2.5c-1.5,1.5-2.5,3.7-2.5,6.1c0,2.4,1,4.5,2.5,6.1
+							c1.5,1.6,3.7,2.5,6,2.5v-2.7c-1.6,0-3.1-0.7-4.1-1.7c-1.1-1.1-1.7-2.5-1.7-4.1c0-1.6,0.6-3.1,1.7-4.1c1.1-1.1,2.5-1.7,4.1-1.7
+							c1.6,0,3.1,0.7,4.1,1.7c1.1,1.1,1.7,2.5,1.7,4.1c0,1.6-0.6,3.1-1.7,4.1c-1.1,1.1-2.5,1.7-4.1,1.7V402.6"/>
+						<g id="Group-159" transform="translate(33.128165, 22.607623)">
+							<g id="Clip-158">
+							</g>
+							<defs>
+								<filter id="Adobe_OpacityMaskFilter_7_" filterUnits="userSpaceOnUse" x="80.1" y="367.3" width="6.6" height="5.8">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							<mask maskUnits="userSpaceOnUse" x="80.1" y="367.3" width="6.6" height="5.8" id="mask-16">
+								<g class="st20">
+									<path id="path-15" class="st2" d="M80.1,367.3c0,0,1.9,1.4,3.3,1.4c0.8,0,3.3-1.4,3.3-1.4l-1.3,5.8h-4.1L80.1,367.3
+										L80.1,367.3z"/>
+								</g>
+							</mask>
+							<path id="Fill-157" sketch:type="MSShapeGroup" class="st21" d="M80.1,367.3h6.6v5.8h-6.6V367.3z"/>
+						</g>
+						<g id="Group-162" transform="translate(20.615081, 19.460052)">
+							<g id="Clip-161">
+							</g>
+							<defs>
+								<filter id="Adobe_OpacityMaskFilter_8_" filterUnits="userSpaceOnUse" x="80.1" y="367" width="14.3" height="14.4">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							<mask maskUnits="userSpaceOnUse" x="80.1" y="367" width="14.3" height="14.4" id="mask-18">
+								<g class="st22">
+									<path id="path-17" class="st2" d="M87.3,381.5c4,0,7.2-3.2,7.2-7.2c0-4-3.2-7.2-7.2-7.2c-4,0-7.2,3.2-7.2,7.2
+										C80.1,378.2,83.3,381.5,87.3,381.5L87.3,381.5z"/>
+								</g>
+							</mask>
+							<path id="Fill-160" sketch:type="MSShapeGroup" class="st23" d="M80.1,367h14.3v14.4H80.1V367z"/>
+						</g>
+						<path id="Fill-163" sketch:type="MSShapeGroup" class="st24" d="M107.9,400.9v1.4c2.4,0,4.5-1,6-2.5c1.5-1.5,2.5-3.7,2.5-6.1
+							c0-2.4-1-4.5-2.5-6.1c-1.5-1.6-3.7-2.5-6-2.5c-2.3,0-4.5,1-6,2.5c-1.5,1.5-2.5,3.7-2.5,6.1c0,2.4,1,4.5,2.5,6.1
+							c1.5,1.6,3.7,2.5,6,2.5v-2.7c-1.6,0-3.1-0.7-4.1-1.7c-1.1-1.1-1.7-2.5-1.7-4.1c0-1.6,0.6-3.1,1.7-4.1c1.1-1.1,2.5-1.7,4.1-1.7
+							c1.6,0,3.1,0.7,4.1,1.7c1.1,1.1,1.7,2.5,1.7,4.1c0,1.6-0.6,3.1-1.7,4.1c-1.1,1.1-2.5,1.7-4.1,1.7V400.9"/>
+						<g id="Group-166" transform="translate(21.397149, 25.755195)">
+							<g id="Clip-165">
+							</g>
+							<defs>
+								<filter id="Adobe_OpacityMaskFilter_9_" filterUnits="userSpaceOnUse" x="78.3" y="365.8" width="15.1" height="10.4">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							<mask maskUnits="userSpaceOnUse" x="78.3" y="365.8" width="15.1" height="10.4" id="mask-20">
+								<g class="st25">
+									<path id="path-19" class="st2" d="M80.5,369.2c0.3,2.1,2.3,4.6,4.8,4.9c1.4,0.1,2.6,0.2,3.9-0.6c1.3-0.8,2.4-1.4,2.5-2.3
+										c0.2-2-2.2-1.6-4.4-1.1c-1.1,0.2-2.1,0.4-2.8,0.4c-3-0.3-3.3-4.6-4-2.5C80.3,368.2,80.5,368.8,80.5,369.2"/>
+								</g>
+							</mask>
+							<path id="Fill-164" sketch:type="MSShapeGroup" class="st26" d="M79.2,365.8l14.1,1.5l-0.9,8.9l-14.2-1.5L79.2,365.8"/>
+						</g>
+						<g id="Group-169" transform="translate(37.820571, 19.460052)">
+							<g id="Clip-168">
+							</g>
+							<defs>
+								<filter id="Adobe_OpacityMaskFilter_10_" filterUnits="userSpaceOnUse" x="80.3" y="367" width="14.3" height="14.4">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							<mask maskUnits="userSpaceOnUse" x="80.3" y="367" width="14.3" height="14.4" id="mask-22">
+								<g class="st27">
+									<path id="path-21" class="st2" d="M87.5,381.5c4,0,7.2-3.2,7.2-7.2c0-4-3.2-7.2-7.2-7.2c-4,0-7.2,3.2-7.2,7.2
+										C80.3,378.2,83.5,381.5,87.5,381.5L87.5,381.5z"/>
+								</g>
+							</mask>
+							<path id="Fill-167" sketch:type="MSShapeGroup" class="st28" d="M80.3,367h14.3v14.4H80.3V367z"/>
+						</g>
+						<path id="Fill-170" sketch:type="MSShapeGroup" class="st24" d="M125.3,400.9v1.4c2.4,0,4.5-1,6-2.5c1.5-1.5,2.5-3.7,2.5-6.1
+							c0-2.4-1-4.5-2.5-6.1c-1.5-1.6-3.7-2.5-6-2.5c-2.3,0-4.5,1-6,2.5c-1.5,1.5-2.5,3.7-2.5,6.1c0,2.4,1,4.5,2.5,6.1
+							c1.5,1.6,3.7,2.5,6,2.5v-2.7c-1.6,0-3.1-0.7-4.1-1.7c-1.1-1.1-1.7-2.5-1.7-4.1c0-1.6,0.6-3.1,1.7-4.1c1.1-1.1,2.5-1.7,4.1-1.7
+							c1.6,0,3.1,0.7,4.1,1.7c1.1,1.1,1.7,2.5,1.7,4.1c0,1.6-0.6,3.1-1.7,4.1c-1.1,1.1-2.5,1.7-4.1,1.7V400.9"/>
+						<g id="Group-173" transform="translate(33.128165, 21.033837)">
+							<g id="Clip-172">
+							</g>
+							<defs>
+								<filter id="Adobe_OpacityMaskFilter_11_" filterUnits="userSpaceOnUse" x="80.1" y="367.2" width="6.6" height="5.8">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							<mask maskUnits="userSpaceOnUse" x="80.1" y="367.2" width="6.6" height="5.8" id="mask-24">
+								<g class="st29">
+									<path id="path-23" class="st2" d="M80.1,367.2c0,0,1.9,1.4,3.3,1.4c0.8,0,3.3-1.4,3.3-1.4l-1.3,5.8h-4.1L80.1,367.2
+										L80.1,367.2z"/>
+								</g>
+							</mask>
+							<path id="Fill-171" sketch:type="MSShapeGroup" class="st30" d="M80.1,367.2h6.6v5.8h-6.6V367.2z"/>
+						</g>
+						<g id="Group-176" transform="translate(38.993673, 25.755195)">
+							<g id="Clip-175">
+							</g>
+							<defs>
+								<filter id="Adobe_OpacityMaskFilter_12_" filterUnits="userSpaceOnUse" x="78" y="365.5" width="15.4" height="10.9">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							<mask maskUnits="userSpaceOnUse" x="78" y="365.5" width="15.4" height="10.9" id="mask-26">
+								<g class="st31">
+									<path id="path-25" class="st2" d="M85.1,374c1.4,0.2,2.6,0.3,3.9-0.4c1.3-0.7,2.4-1.3,2.5-2.2c0.3-2-2.1-1.6-4.3-1.3
+										c-1.1,0.2-2.1,0.4-2.8,0.3c-3-0.4-3.2-4.7-3.9-2.7C79.6,369.6,82.1,373.6,85.1,374"/>
+								</g>
+							</mask>
+							<path id="Fill-174" sketch:type="MSShapeGroup" class="st32" d="M79.3,365.5l14.1,2l-1.2,8.9l-14.1-2L79.3,365.5"/>
+						</g>
+						<g>
+							<defs>
+								<polygon id="SVGID_1_" points="81,368 82,368 81,369 								"/>
+							</defs>
+							<defs>
+								<polygon id="SVGID_2_" points="79,366 78,366 79,365 								"/>
+							</defs>
+							<clipPath id="SVGID_3_">
+								<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+							</clipPath>
+							<clipPath id="SVGID_4_" class="st33">
+								<use xlink:href="#SVGID_2_"  style="overflow:visible;"/>
+							</clipPath>
+							<g transform="matrix(0.1351 0 0 0 100.6445 389.0042)" style="clip-path:url(#SVGID_4_);enable-background:new    ;">
+								
+									<image style="overflow:visible;" width="6" height="6" id="Image-177" xlink:href="3B6C046AC6D67746.png"  sketch:type="MSBitmapLayer" transform="matrix(0.1351 0 0 0 100.6445 389.0042)">
+								</image>
+							</g>
+						</g>
+						<g>
+							<defs>
+								<polygon id="SVGID_5_" points="81,368 82,368 81,369 								"/>
+							</defs>
+							<defs>
+								<polygon id="SVGID_6_" points="79,366 78,366 79,365 								"/>
+							</defs>
+							<clipPath id="SVGID_7_">
+								<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+							</clipPath>
+							<clipPath id="SVGID_8_" class="st34">
+								<use xlink:href="#SVGID_6_"  style="overflow:visible;"/>
+							</clipPath>
+							<g transform="matrix(0.1351 0 0 0 101.9957 393.0829)" style="clip-path:url(#SVGID_8_);enable-background:new    ;">
+								
+									<image style="overflow:visible;" width="24" height="34" id="Image-178" xlink:href="3B6C046AC6D6774A.png"  sketch:type="MSBitmapLayer" transform="matrix(0.1351 0 0 0 101.9957 393.0829)">
+								</image>
+							</g>
+						</g>
+						<g>
+							<defs>
+								<polygon id="SVGID_9_" points="81,368 82,368 81,369 								"/>
+							</defs>
+							<defs>
+								<polygon id="SVGID_10_" points="79,366 78,366 79,365 								"/>
+							</defs>
+							<clipPath id="SVGID_11_">
+								<use xlink:href="#SVGID_9_"  style="overflow:visible;"/>
+							</clipPath>
+							<clipPath id="SVGID_12_" class="st35">
+								<use xlink:href="#SVGID_10_"  style="overflow:visible;"/>
+							</clipPath>
+							<g transform="matrix(0.1351 0 0 0 100.6445 393.0829)" style="clip-path:url(#SVGID_12_);enable-background:new    ;">
+								
+									<image style="overflow:visible;" width="34" height="36" id="Image-179" xlink:href="3B6C046AC6D6774D.png"  sketch:type="MSBitmapLayer" transform="matrix(0.1351 0 0 0 100.6445 393.0829)">
+								</image>
+							</g>
+						</g>
+						<g>
+							<defs>
+								<polygon id="SVGID_13_" points="81,368 82,368 81,369 								"/>
+							</defs>
+							<defs>
+								<polygon id="SVGID_14_" points="79,366 78,366 79,365 								"/>
+							</defs>
+							<clipPath id="SVGID_15_">
+								<use xlink:href="#SVGID_13_"  style="overflow:visible;"/>
+							</clipPath>
+							<clipPath id="SVGID_16_" class="st36">
+								<use xlink:href="#SVGID_14_"  style="overflow:visible;"/>
+							</clipPath>
+							<g transform="matrix(0.1351 0 0 0 103.8874 396.3457)" style="clip-path:url(#SVGID_16_);enable-background:new    ;">
+								
+									<image style="overflow:visible;" width="24" height="8" id="Image-180" xlink:href="3B6C046AC6D6774E.png"  sketch:type="MSBitmapLayer" transform="matrix(0.1351 0 0 0 103.8874 396.3457)">
+								</image>
+							</g>
+						</g>
+						<g>
+							<defs>
+								<polygon id="SVGID_17_" points="81,368 82,368 81,369 								"/>
+							</defs>
+							<defs>
+								<polygon id="SVGID_18_" points="79,366 78,366 79,365 								"/>
+							</defs>
+							<clipPath id="SVGID_19_">
+								<use xlink:href="#SVGID_17_"  style="overflow:visible;"/>
+							</clipPath>
+							<clipPath id="SVGID_20_" class="st37">
+								<use xlink:href="#SVGID_18_"  style="overflow:visible;"/>
+							</clipPath>
+							<g transform="matrix(0.1351 0 0 0 103.347 399.0649)" style="clip-path:url(#SVGID_20_);enable-background:new    ;">
+								
+									<image style="overflow:visible;" width="8" height="8" id="Image-181" xlink:href="3B6C046AC6D6774C.png"  sketch:type="MSBitmapLayer" transform="matrix(0.1351 0 0 0 103.347 399.0649)">
+								</image>
+							</g>
+						</g>
+						<g>
+							<defs>
+								<polygon id="SVGID_21_" points="81,368 82,368 81,369 								"/>
+							</defs>
+							<defs>
+								<polygon id="SVGID_22_" points="79,366 78,366 79,365 								"/>
+							</defs>
+							<clipPath id="SVGID_23_">
+								<use xlink:href="#SVGID_21_"  style="overflow:visible;"/>
+							</clipPath>
+							<clipPath id="SVGID_24_" class="st38">
+								<use xlink:href="#SVGID_22_"  style="overflow:visible;"/>
+							</clipPath>
+							<g transform="matrix(0.1351 0 0 0 103.347 399.0648)" style="clip-path:url(#SVGID_24_);enable-background:new    ;">
+								
+									<image style="overflow:visible;" width="28" height="28" id="Image-182" xlink:href="3B6C046AC6D6774B.png"  sketch:type="MSBitmapLayer" transform="matrix(0.1351 0 0 0 103.347 399.0648)">
+								</image>
+							</g>
+						</g>
+						<g>
+							<defs>
+								<polygon id="SVGID_25_" points="81,368 82,368 81,369 								"/>
+							</defs>
+							<defs>
+								<polygon id="SVGID_26_" points="79,366 78,366 79,365 								"/>
+							</defs>
+							<clipPath id="SVGID_27_">
+								<use xlink:href="#SVGID_25_"  style="overflow:visible;"/>
+							</clipPath>
+							<clipPath id="SVGID_28_" class="st39">
+								<use xlink:href="#SVGID_26_"  style="overflow:visible;"/>
+							</clipPath>
+							<g transform="matrix(0.1351 0 0 0 118.2104 389.0042)" style="clip-path:url(#SVGID_28_);enable-background:new    ;">
+								
+									<image style="overflow:visible;" width="6" height="6" id="Image-183" xlink:href="3B6C046AC6D67745.png"  sketch:type="MSBitmapLayer" transform="matrix(0.1351 0 0 0 118.2104 389.0042)">
+								</image>
+							</g>
+						</g>
+						<g>
+							<defs>
+								<polygon id="SVGID_29_" points="81,368 82,368 81,369 								"/>
+							</defs>
+							<defs>
+								<polygon id="SVGID_30_" points="79,366 78,366 79,365 								"/>
+							</defs>
+							<clipPath id="SVGID_31_">
+								<use xlink:href="#SVGID_29_"  style="overflow:visible;"/>
+							</clipPath>
+							<clipPath id="SVGID_32_" class="st40">
+								<use xlink:href="#SVGID_30_"  style="overflow:visible;"/>
+							</clipPath>
+							<g transform="matrix(0.1351 0 0 0 119.2914 393.0829)" style="clip-path:url(#SVGID_32_);enable-background:new    ;">
+								
+									<image style="overflow:visible;" width="26" height="36" id="Image-184" xlink:href="3B6C046AC6D67747.png"  sketch:type="MSBitmapLayer" transform="matrix(0.1351 0 0 0 119.2914 393.0829)">
+								</image>
+							</g>
+						</g>
+						<g>
+							<defs>
+								<polygon id="SVGID_33_" points="81,368 82,368 81,369 								"/>
+							</defs>
+							<defs>
+								<polygon id="SVGID_34_" points="79,366 78,366 79,365 								"/>
+							</defs>
+							<clipPath id="SVGID_35_">
+								<use xlink:href="#SVGID_33_"  style="overflow:visible;"/>
+							</clipPath>
+							<clipPath id="SVGID_36_" class="st41">
+								<use xlink:href="#SVGID_34_"  style="overflow:visible;"/>
+							</clipPath>
+							<g transform="matrix(0.1351 0 0 0 118.2104 393.0829)" style="clip-path:url(#SVGID_36_);enable-background:new    ;">
+								
+									<image style="overflow:visible;" width="34" height="36" id="Image-185" xlink:href="3B6C046AC6D67744.png"  sketch:type="MSBitmapLayer" transform="matrix(0.1351 0 0 0 118.2104 393.0829)">
+								</image>
+							</g>
+						</g>
+						<g>
+							<defs>
+								<polygon id="SVGID_37_" points="81,368 82,368 81,369 								"/>
+							</defs>
+							<defs>
+								<polygon id="SVGID_38_" points="79,366 78,366 79,365 								"/>
+							</defs>
+							<clipPath id="SVGID_39_">
+								<use xlink:href="#SVGID_37_"  style="overflow:visible;"/>
+							</clipPath>
+							<clipPath id="SVGID_40_" class="st42">
+								<use xlink:href="#SVGID_38_"  style="overflow:visible;"/>
+							</clipPath>
+							<g transform="matrix(0.1351 0 0 0 118.2104 393.0829)" style="clip-path:url(#SVGID_40_);enable-background:new    ;">
+								
+									<image style="overflow:visible;" width="14" height="36" id="Image-186" xlink:href="969CA36EBCFF3D79.png"  sketch:type="MSBitmapLayer" transform="matrix(0.1351 0 0 0 118.2104 393.0829)">
+								</image>
+							</g>
+						</g>
+						<g>
+							<defs>
+								<polygon id="SVGID_41_" points="81,368 82,368 81,369 								"/>
+							</defs>
+							<defs>
+								<polygon id="SVGID_42_" points="79,366 78,366 79,365 								"/>
+							</defs>
+							<clipPath id="SVGID_43_">
+								<use xlink:href="#SVGID_41_"  style="overflow:visible;"/>
+							</clipPath>
+							<clipPath id="SVGID_44_" class="st43">
+								<use xlink:href="#SVGID_42_"  style="overflow:visible;"/>
+							</clipPath>
+							<g transform="matrix(0.1351 0 0 0 121.7236 396.3457)" style="clip-path:url(#SVGID_44_);enable-background:new    ;">
+								
+									<image style="overflow:visible;" width="14" height="8" id="Image-187" xlink:href="969CA36EBCFF3D7F.png"  sketch:type="MSBitmapLayer" transform="matrix(0.1351 0 0 0 121.7236 396.3457)">
+								</image>
+							</g>
+						</g>
+						<g>
+							<defs>
+								<polygon id="SVGID_45_" points="81,368 82,368 81,369 								"/>
+							</defs>
+							<defs>
+								<polygon id="SVGID_46_" points="79,366 78,366 79,365 								"/>
+							</defs>
+							<clipPath id="SVGID_47_">
+								<use xlink:href="#SVGID_45_"  style="overflow:visible;"/>
+							</clipPath>
+							<clipPath id="SVGID_48_" class="st44">
+								<use xlink:href="#SVGID_46_"  style="overflow:visible;"/>
+							</clipPath>
+							<g transform="matrix(0.1351 0 0 0 119.8319 399.0648)" style="clip-path:url(#SVGID_48_);enable-background:new    ;">
+								
+									<image style="overflow:visible;" width="18" height="18" id="Image-188" xlink:href="969CA36EBCFF3D78.png"  sketch:type="MSBitmapLayer" transform="matrix(0.1351 0 0 0 119.8319 399.0648)">
+								</image>
+							</g>
+						</g>
+						<g>
+							<defs>
+								<polygon id="SVGID_49_" points="81,368 82,368 81,369 								"/>
+							</defs>
+							<defs>
+								<polygon id="SVGID_50_" points="79,366 78,366 79,365 								"/>
+							</defs>
+							<clipPath id="SVGID_51_">
+								<use xlink:href="#SVGID_49_"  style="overflow:visible;"/>
+							</clipPath>
+							<clipPath id="SVGID_52_" class="st45">
+								<use xlink:href="#SVGID_50_"  style="overflow:visible;"/>
+							</clipPath>
+							<g transform="matrix(0.1351 0 0 0 119.8319 399.0648)" style="clip-path:url(#SVGID_52_);enable-background:new    ;">
+								
+									<image style="overflow:visible;" width="28" height="28" id="Image-189" xlink:href="969CA36EBCFF3D7B.png"  sketch:type="MSBitmapLayer" transform="matrix(0.1351 0 0 0 119.8319 399.0648)">
+								</image>
+							</g>
+						</g>
+						<g id="Group-192" transform="translate(36.256436, 37.165143)">
+							<g id="Clip-191">
+							</g>
+							<defs>
+								<filter id="Adobe_OpacityMaskFilter_13_" filterUnits="userSpaceOnUse" x="80.1" y="367.3" width="12.6" height="8.1">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							<mask maskUnits="userSpaceOnUse" x="80.1" y="367.3" width="12.6" height="8.1" id="mask-28">
+								<g class="st46">
+									<path id="path-27" class="st2" d="M86.4,372.2c-1.9,0.7-6.3-0.1-6.3-0.1l1.1,3.3l1.2-2.8l1,2.7l1.4-2.7l1.2,2.6l0.6-3.3
+										l2.1,2.3l0-3.4l2,1.4l-0.3-2.8l2.1,0.4l-0.3-2.6C92.4,367.3,88.6,371.3,86.4,372.2L86.4,372.2z"/>
+								</g>
+							</mask>
+							<path id="Fill-190" sketch:type="MSShapeGroup" class="st47" d="M80.1,367.3h12.6v8.1H80.1V367.3z"/>
+						</g>
+						<g id="Group-195" transform="translate(38.602639, 41.886500)">
+							<g id="Clip-194">
+							</g>
+							<defs>
+								<filter id="Adobe_OpacityMaskFilter_14_" filterUnits="userSpaceOnUse" x="80.2" y="367.4" width="2.2" height="1.9">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							<mask maskUnits="userSpaceOnUse" x="80.2" y="367.4" width="2.2" height="1.9" id="mask-30">
+								<g class="st48">
+									<path id="path-29" class="st2" d="M80.2,367.5l1.1,1.7l1.1-1.9L80.2,367.5L80.2,367.5z"/>
+								</g>
+							</mask>
+							<path id="Fill-193" sketch:type="MSShapeGroup" class="st49" d="M80.2,367.4h2.2v1.9h-2.2V367.4z"/>
+						</g>
+						<g id="Group-198" transform="translate(36.647470, 41.886500)">
+							<g id="Clip-197">
+							</g>
+							<defs>
+								<filter id="Adobe_OpacityMaskFilter_15_" filterUnits="userSpaceOnUse" x="78.1" y="365.4" width="5.6" height="5.4">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							<mask maskUnits="userSpaceOnUse" x="78.1" y="365.4" width="5.6" height="5.4" id="mask-32">
+								<g class="st50">
+									<path id="path-31" class="st2" d="M80,367.1l0.8,1.9l1.4-1.6L80,367.1"/>
+								</g>
+							</mask>
+							<path id="Fill-196" sketch:type="MSShapeGroup" class="st51" d="M78.9,365.4l4.8,0.9l-0.8,4.5l-4.8-0.9L78.9,365.4"/>
+						</g>
+						<g id="Group-201" transform="translate(40.948842, 41.493054)">
+							<g id="Clip-200">
+							</g>
+							<defs>
+								<filter id="Adobe_OpacityMaskFilter_16_" filterUnits="userSpaceOnUse" x="78.5" y="365.7" width="5.7" height="5.5">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							<mask maskUnits="userSpaceOnUse" x="78.5" y="365.7" width="5.7" height="5.5" id="mask-34">
+								<g class="st52">
+									<path id="path-33" class="st2" d="M80.1,367.9l1.4,1.5l0.7-2L80.1,367.9"/>
+								</g>
+							</mask>
+							<path id="Fill-199" sketch:type="MSShapeGroup" class="st53" d="M78.5,366.8l4.8-1l0.9,4.5l-4.8,1L78.5,366.8"/>
+						</g>
+						<g id="Group-204" transform="translate(42.904012, 40.706161)">
+							<g id="Clip-203">
+							</g>
+							<defs>
+								<filter id="Adobe_OpacityMaskFilter_17_" filterUnits="userSpaceOnUse" x="78.5" y="365.4" width="6.3" height="6.2">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							<mask maskUnits="userSpaceOnUse" x="78.5" y="365.4" width="6.3" height="6.2" id="mask-36">
+								<g class="st54">
+									<path id="path-35" class="st2" d="M80.3,368.1l1.7,1.1l0.2-2.1L80.3,368.1"/>
+								</g>
+							</mask>
+							<path id="Fill-202" sketch:type="MSShapeGroup" class="st55" d="M78.5,367.4l4.5-2l1.8,4.2l-4.5,2L78.5,367.4"/>
+						</g>
+						<g id="Group-207" transform="translate(45.250215, 39.525822)">
+							<g id="Clip-206">
+							</g>
+							<defs>
+								<filter id="Adobe_OpacityMaskFilter_18_" filterUnits="userSpaceOnUse" x="78.1" y="365.1" width="6.6" height="6.5">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							<mask maskUnits="userSpaceOnUse" x="78.1" y="365.1" width="6.6" height="6.5" id="mask-38">
+								<g class="st56">
+									<path id="path-37" class="st2" d="M80,368.3l1.9,0.8l-0.1-2.1L80,368.3"/>
+								</g>
+							</mask>
+							<path id="Fill-205" sketch:type="MSShapeGroup" class="st57" d="M78.1,367.9l4-2.7l2.5,3.8l-4,2.7L78.1,367.9"/>
+						</g>
+						<g id="Group-210" transform="translate(46.814350, 37.952036)">
+							<g id="Clip-209">
+							</g>
+							<defs>
+								<filter id="Adobe_OpacityMaskFilter_19_" filterUnits="userSpaceOnUse" x="78.1" y="365.2" width="6.7" height="6.7">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							<mask maskUnits="userSpaceOnUse" x="78.1" y="365.2" width="6.7" height="6.7" id="mask-40">
+								<g class="st58">
+									<path id="path-39" class="st2" d="M80.1,368.6l2,0.6l-0.4-2.1L80.1,368.6"/>
+								</g>
+							</mask>
+							<path id="Fill-208" sketch:type="MSShapeGroup" class="st59" d="M78.1,368.5l3.6-3.3l3,3.4l-3.6,3.3L78.1,368.5"/>
+						</g>
+						<path id="Fill-211" sketch:type="MSShapeGroup" class="st17" d="M115.8,409.6c0,0,0.8,0.2,2.3,0.2c1,0,2.4-0.1,4-0.4
+							c1.3-0.3,2.5-0.8,3.8-1.6c1.3-0.9,2.6-2.1,4.1-3.7c0.2-0.2,0.2-0.6-0.1-0.8s-0.6-0.2-0.8,0.1c-1.4,1.6-2.6,2.7-3.8,3.5
+							c-1.2,0.8-2.3,1.3-3.5,1.5c-1.6,0.3-2.8,0.4-3.8,0.4c-0.7,0-1.2,0-1.5-0.1c-0.2,0-0.3,0-0.4-0.1c0,0-0.1,0-0.1,0l0,0l0,0
+							l-0.1,0.2l0.1-0.2l0,0l-0.1,0.2l0.1-0.2c-0.3-0.1-0.6,0.1-0.7,0.4C115.4,409.2,115.5,409.5,115.8,409.6"/>
+						<g id="Group-214" transform="translate(21.788182, 55.657127)">
+							<g id="Clip-213">
+							</g>
+							<defs>
+								<filter id="Adobe_OpacityMaskFilter_20_" filterUnits="userSpaceOnUse" x="79.7" y="367.3" width="6.9" height="3.7">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							<mask maskUnits="userSpaceOnUse" x="79.7" y="367.3" width="6.9" height="3.7" id="mask-42">
+								<g class="st60">
+									<path id="path-41" class="st2" d="M83.6,370.7c1.4-0.1,2.8-0.3,2.8-0.7c0.2-0.9-1.3-0.1-2.2-0.9c-0.7-0.5-1-1.8-1.7-1.8
+										c-1.8,0-2.8,1.8-1.8,3.1C81.2,371,82.4,370.8,83.6,370.7L83.6,370.7z"/>
+								</g>
+							</mask>
+							<path id="Fill-212" sketch:type="MSShapeGroup" class="st61" d="M79.7,367.3h6.9v3.7h-6.9V367.3z"/>
+						</g>
+						<g id="Group-217" transform="translate(47.205384, 55.657127)">
+							<g id="Clip-216">
+							</g>
+							<defs>
+								<filter id="Adobe_OpacityMaskFilter_21_" filterUnits="userSpaceOnUse" x="80.1" y="367.3" width="6.9" height="3.7">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							<mask maskUnits="userSpaceOnUse" x="80.1" y="367.3" width="6.9" height="3.7" id="mask-44">
+								<g class="st62">
+									<path id="path-43" class="st2" d="M83.1,370.7c-1.4-0.1-2.8-0.3-2.8-0.7c-0.2-0.9,1.3-0.1,2.2-0.9c0.7-0.5,1-1.8,1.7-1.8
+										c1.8,0,2.8,1.8,1.8,3.1C85.5,371,84.3,370.8,83.1,370.7L83.1,370.7z"/>
+								</g>
+							</mask>
+							<path id="Fill-215" sketch:type="MSShapeGroup" class="st63" d="M80.1,367.3h6.9v3.7h-6.9V367.3z"/>
+						</g>
+						<g id="Group-220" transform="translate(47.987452, 50.935769)">
+							<g id="Clip-219">
+							</g>
+							<defs>
+								<filter id="Adobe_OpacityMaskFilter_22_" filterUnits="userSpaceOnUse" x="80" y="367.3" width="2.3" height="2.4">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							<mask maskUnits="userSpaceOnUse" x="80" y="367.3" width="2.3" height="2.4" id="mask-46">
+								<g class="st64">
+									<path id="path-45" class="st2" d="M80,368.7v1.1c0,0,0.7-0.1,1.4-0.4c0.6-0.3,0.9-0.5,0.9-0.5v-1.5L80,368.7L80,368.7z"/>
+								</g>
+							</mask>
+							<path id="Fill-218" sketch:type="MSShapeGroup" class="st65" d="M80,367.3h2.3v2.4H80V367.3z"/>
+						</g>
+						<g id="Group-223" transform="translate(26.089555, 52.509555)">
+							<g id="Clip-222">
+							</g>
+							<defs>
+								<filter id="Adobe_OpacityMaskFilter_23_" filterUnits="userSpaceOnUse" x="80.1" y="367.4" width="1.9" height="2">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							<mask maskUnits="userSpaceOnUse" x="80.1" y="367.4" width="1.9" height="2" id="mask-48">
+								<g class="st66">
+									<path id="path-47" class="st2" d="M82,368.1v1.2c0,0-0.5,0-1.1-0.2c-0.6-0.3-0.8-0.4-0.8-0.4l0.1-1.3L82,368.1L82,368.1z"
+										/>
+								</g>
+							</mask>
+							<path id="Fill-221" sketch:type="MSShapeGroup" class="st67" d="M80.1,367.4H82v2h-1.9V367.4z"/>
+						</g>
+						<g id="Group-226" transform="translate(0.281319, 22.607623)">
+							<g id="Clip-225">
+							</g>
+							<defs>
+								<filter id="Adobe_OpacityMaskFilter_24_" filterUnits="userSpaceOnUse" x="80" y="367.2" width="12.9" height="12.5">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							<mask maskUnits="userSpaceOnUse" x="80" y="367.2" width="12.9" height="12.5" id="mask-50">
+								<g class="st68">
+									<path id="path-49" class="st2" d="M92.4,367.2c0,0-4.1,2.7-5.8,4.3c-1.5,1.4-3.9,4.8-3.9,4.8s-1.8-1-2.3-0.1
+										c-0.5,0.9,1.5,1,1.5,1s-1.1,0.3-1.1,1.1c0,0.8,2.2-0.5,2.2-0.5s-0.1,1.9,0.7,1.9c0.8,0,0.5-1.2,0.5-1.8
+										c0-0.3,1.7-3,3.6-5.1c2.3-2.4,5-4.3,5-4.3L92.4,367.2L92.4,367.2z"/>
+								</g>
+							</mask>
+							<path id="Fill-224" sketch:type="MSShapeGroup" class="st69" d="M80,367.2h12.9v12.5H80V367.2z"/>
+						</g>
+						<g id="Group-229" transform="translate(60.109502, 21.820730)">
+							<g id="Clip-228">
+							</g>
+							<defs>
+								<filter id="Adobe_OpacityMaskFilter_25_" filterUnits="userSpaceOnUse" x="80" y="367.3" width="12.9" height="12.5">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							<mask maskUnits="userSpaceOnUse" x="80" y="367.3" width="12.9" height="12.5" id="mask-52">
+								<g class="st70">
+									<path id="path-51" class="st2" d="M80.4,367.3c0,0,4.1,2.7,5.8,4.3c1.5,1.4,3.9,4.8,3.9,4.8s1.8-1,2.3-0.1
+										c0.5,0.9-1.5,1-1.5,1s1.1,0.3,1.1,1.1c0,0.8-2.2-0.5-2.2-0.5s0.1,1.9-0.7,1.9c-0.8,0-0.5-1.2-0.5-1.8c0-0.3-1.7-3-3.6-5.1
+										c-2.3-2.4-5-4.3-5-4.3L80.4,367.3L80.4,367.3z"/>
+								</g>
+							</mask>
+							<path id="Fill-227" sketch:type="MSShapeGroup" class="st71" d="M80,367.3h12.9v12.5H80V367.3z"/>
+						</g>
+						<g id="Group-232" transform="translate(39.384707, 0.181175)">
+							<g id="Clip-231">
+							</g>
+							<defs>
+								<filter id="Adobe_OpacityMaskFilter_26_" filterUnits="userSpaceOnUse" x="78.1" y="363.9" width="17.9" height="14.2">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							<mask maskUnits="userSpaceOnUse" x="78.1" y="363.9" width="17.9" height="14.2" id="mask-54">
+								<g class="st72">
+									<path id="path-53" class="st2" d="M81.3,369.2c0,0-2.6,2.7,0.6,4.1c3.2,1.4,7,2.5,7.4,1.1c0.4-1.4-2.5-2.4-1.9-3.6
+										c0.7-1.1,1.4-0.6,3.4-0.1c2,0.6,3.3-1.2,3.3-1.2s-2.4,0.9-3.8-0.4c-1.4-1.3-2.3-2.4-4.6-2.1
+										C83.5,367.3,81.3,369.2,81.3,369.2"/>
+								</g>
+							</mask>
+							<path id="Fill-230" sketch:type="MSShapeGroup" class="st73" d="M80.8,363.9L96,368l-2.7,10.1l-15.2-4.1L80.8,363.9"/>
+						</g>
+						<g id="Group-235" transform="translate(52.288825, 55.657127)">
+							<g id="Clip-234">
+							</g>
+							<defs>
+								<filter id="Adobe_OpacityMaskFilter_27_" filterUnits="userSpaceOnUse" x="80" y="367.2" width="1.7" height="1.8">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							<mask maskUnits="userSpaceOnUse" x="80" y="367.2" width="1.7" height="1.8" id="mask-56">
+								<g class="st74">
+									<path id="path-55" class="st2" d="M80.3,369c0,0-0.2,0.1-0.2,0c-0.1-0.4-0.1-1.7,0.7-1.7C81.7,367.2,80.3,369,80.3,369
+										L80.3,369z"/>
+								</g>
+							</mask>
+							<path id="Fill-233" sketch:type="MSShapeGroup" class="st75" d="M80,367.2h1.7v1.8H80V367.2z"/>
+						</g>
+						<g id="Group-238" transform="translate(52.288825, 56.444020)">
+							<g id="Clip-237">
+							</g>
+							<defs>
+								<filter id="Adobe_OpacityMaskFilter_28_" filterUnits="userSpaceOnUse" x="80.2" y="367.1" width="0.7" height="0.9">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							<mask maskUnits="userSpaceOnUse" x="80.2" y="367.1" width="0.7" height="0.9" id="mask-58">
+								<g class="st76">
+									<path id="path-57" class="st2" d="M80.3,368C80.3,368,80.2,368,80.3,368c-0.1-0.2-0.1-0.9,0.2-0.9
+										C80.9,367.1,80.3,368,80.3,368L80.3,368z"/>
+								</g>
+							</mask>
+							<path id="Fill-236" sketch:type="MSShapeGroup" class="st77" d="M80.2,367.1h0.7v0.9h-0.7V367.1z"/>
+						</g>
+						<g id="Group-241" transform="translate(52.679859, 55.657127)">
+							<g id="Clip-240">
+							</g>
+							<defs>
+								<filter id="Adobe_OpacityMaskFilter_29_" filterUnits="userSpaceOnUse" x="78.5" y="365.1" width="5.1" height="5.6">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							<mask maskUnits="userSpaceOnUse" x="78.5" y="365.1" width="5.1" height="5.6" id="mask-60">
+								<g class="st78">
+									<path id="path-59" class="st2" d="M80.5,368.5c0,0-0.1,0-0.1-0.1c0-0.4,0.6-1.7,1.2-1.4C82.3,367.4,80.7,368.7,80.5,368.5"
+										/>
+								</g>
+							</mask>
+							<path id="Fill-239" sketch:type="MSShapeGroup" class="st79" d="M80.3,365.1l3.3,1.5l-1.8,4.1l-3.3-1.5L80.3,365.1"/>
+						</g>
+						<g id="Group-244" transform="translate(53.070892, 56.050573)">
+							<g id="Clip-243">
+							</g>
+							<defs>
+								<filter id="Adobe_OpacityMaskFilter_30_" filterUnits="userSpaceOnUse" x="78.4" y="365.5" width="4.2" height="4.5">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							<mask maskUnits="userSpaceOnUse" x="78.4" y="365.5" width="4.2" height="4.5" id="mask-62">
+								<g class="st80">
+									<path id="path-61" class="st2" d="M80.2,368.1C80.2,368.1,80.1,368.1,80.2,368.1c-0.1-0.2,0.2-0.9,0.5-0.7
+										C81.1,367.5,80.2,368.1,80.2,368.1"/>
+								</g>
+							</mask>
+							<path id="Fill-242" sketch:type="MSShapeGroup" class="st81" d="M79.6,365.5l2.9,1.1l-1.3,3.4l-2.9-1.1L79.6,365.5"/>
+						</g>
+						<g id="Group-247" transform="translate(22.961284, 55.263680)">
+							<g id="Clip-246">
+							</g>
+							<defs>
+								<filter id="Adobe_OpacityMaskFilter_31_" filterUnits="userSpaceOnUse" x="79.4" y="367.3" width="1.7" height="1.8">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							<mask maskUnits="userSpaceOnUse" x="79.4" y="367.3" width="1.7" height="1.8" id="mask-64">
+								<g class="st82">
+									<path id="path-63" class="st2" d="M80.8,369.1c0,0,0.2,0.1,0.2,0c0.1-0.4,0.1-1.7-0.7-1.7
+										C79.4,367.3,80.8,369.1,80.8,369.1L80.8,369.1z"/>
+								</g>
+							</mask>
+							<path id="Fill-245" sketch:type="MSShapeGroup" class="st83" d="M79.4,367.3h1.7v1.8h-1.7V367.3z"/>
+						</g>
+						<g id="Group-250" transform="translate(23.352318, 56.050573)">
+							<g id="Clip-249">
+							</g>
+							<defs>
+								<filter id="Adobe_OpacityMaskFilter_32_" filterUnits="userSpaceOnUse" x="79.8" y="367.2" width="0.7" height="0.9">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							<mask maskUnits="userSpaceOnUse" x="79.8" y="367.2" width="0.7" height="0.9" id="mask-66">
+								<g class="st84">
+									<path id="path-65" class="st2" d="M80.4,368.1C80.4,368.1,80.5,368.1,80.4,368.1c0.1-0.2,0.1-0.9-0.2-0.9
+										C79.8,367.2,80.4,368.1,80.4,368.1L80.4,368.1z"/>
+								</g>
+							</mask>
+							<path id="Fill-248" sketch:type="MSShapeGroup" class="st85" d="M79.8,367.2h0.7v0.9h-0.7V367.2z"/>
+						</g>
+						<g id="Group-253" transform="translate(21.788182, 55.263680)">
+							<g id="Clip-252">
+							</g>
+							<defs>
+								<filter id="Adobe_OpacityMaskFilter_33_" filterUnits="userSpaceOnUse" x="78.2" y="365.2" width="5.1" height="5.6">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							<mask maskUnits="userSpaceOnUse" x="78.2" y="365.2" width="5.1" height="5.6" id="mask-68">
+								<g class="st86">
+									<path id="path-67" class="st2" d="M81.4,368.6c0,0,0.1,0,0.1-0.1c0-0.4-0.6-1.7-1.2-1.4C79.6,367.5,81.2,368.8,81.4,368.6"
+										/>
+								</g>
+							</mask>
+							<path id="Fill-251" sketch:type="MSShapeGroup" class="st87" d="M81.5,365.2l-3.3,1.5l1.8,4.1l3.3-1.5L81.5,365.2"/>
+						</g>
+						<g id="Group-256" transform="translate(22.179216, 56.050573)">
+							<g id="Clip-255">
+							</g>
+							<defs>
+								<filter id="Adobe_OpacityMaskFilter_34_" filterUnits="userSpaceOnUse" x="78.5" y="365.2" width="4.2" height="4.5">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							<mask maskUnits="userSpaceOnUse" x="78.5" y="365.2" width="4.2" height="4.5" id="mask-70">
+								<g class="st88">
+									<path id="path-69" class="st2" d="M80.9,367.8C80.9,367.8,81,367.8,80.9,367.8c0.1-0.2-0.2-0.9-0.5-0.7
+										C80,367.2,80.9,367.8,80.9,367.8"/>
+								</g>
+							</mask>
+							<path id="Fill-254" sketch:type="MSShapeGroup" class="st89" d="M81.5,365.2l-2.9,1.1l1.3,3.4l2.9-1.1L81.5,365.2"/>
+						</g>
+						<path id="Fill-257" sketch:type="MSShapeGroup" class="st90" d="M103.2,424.6h0.3v0.5h-0.3V424.6z"/>
+						<path id="Fill-258" sketch:type="MSShapeGroup" class="st90" d="M132.9,424.8h0.3v0.5h-0.3V424.8z"/>
+						<path id="Fill-259" sketch:type="MSShapeGroup" class="st90" d="M102.1,424.6h0.3v0.5h-0.3V424.6z"/>
+						<g id="Group-262" transform="translate(55.808130, 27.328981)">
+							<g id="Clip-261">
+							</g>
+							<defs>
+								<filter id="Adobe_OpacityMaskFilter_35_" filterUnits="userSpaceOnUse" x="80.4" y="367" width="2.3" height="2.5">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							<mask maskUnits="userSpaceOnUse" x="80.4" y="367" width="2.3" height="2.5" id="mask-72">
+								<g class="st91">
+									<path id="path-71" class="st2" d="M81.5,369.5c0.6,0,1.1-0.6,1.1-1.2s-0.5-1.2-1.1-1.2c-0.6,0-1.1,0.6-1.1,1.2
+										S80.9,369.5,81.5,369.5L81.5,369.5z"/>
+								</g>
+							</mask>
+							<path id="Fill-260" sketch:type="MSShapeGroup" class="st92" d="M80.4,367h2.3v2.5h-2.3V367z"/>
+						</g>
+						<g id="Group-265" transform="translate(53.852960, 42.673393)">
+							<g id="Clip-264">
+							</g>
+							<defs>
+								<filter id="Adobe_OpacityMaskFilter_36_" filterUnits="userSpaceOnUse" x="80.1" y="367.2" width="2.3" height="2.5">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							<mask maskUnits="userSpaceOnUse" x="80.1" y="367.2" width="2.3" height="2.5" id="mask-74">
+								<g class="st93">
+									<path id="path-73" class="st2" d="M81.2,369.7c0.6,0,1.1-0.6,1.1-1.2s-0.5-1.2-1.1-1.2c-0.6,0-1.1,0.6-1.1,1.2
+										S80.6,369.7,81.2,369.7L81.2,369.7z"/>
+								</g>
+							</mask>
+							<path id="Fill-263" sketch:type="MSShapeGroup" class="st94" d="M80.1,367.2h2.3v2.5h-2.3V367.2z"/>
+						</g>
+						<g id="Group-268" transform="translate(52.288825, 14.738694)">
+							<g id="Clip-267">
+							</g>
+							<defs>
+								<filter id="Adobe_OpacityMaskFilter_37_" filterUnits="userSpaceOnUse" x="80" y="367" width="2.3" height="2.5">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							<mask maskUnits="userSpaceOnUse" x="80" y="367" width="2.3" height="2.5" id="mask-76">
+								<g class="st95">
+									<path id="path-75" class="st2" d="M81.1,369.5c0.6,0,1.1-0.6,1.1-1.2s-0.5-1.2-1.1-1.2c-0.6,0-1.1,0.6-1.1,1.2
+										S80.5,369.5,81.1,369.5L81.1,369.5z"/>
+								</g>
+							</mask>
+							<path id="Fill-266" sketch:type="MSShapeGroup" class="st96" d="M80,367h2.3v2.5H80V367z"/>
+						</g>
+						<g id="Group-271" transform="translate(48.769520, 11.197676)">
+							<g id="Clip-270">
+							</g>
+							<defs>
+								<filter id="Adobe_OpacityMaskFilter_38_" filterUnits="userSpaceOnUse" x="80" y="367" width="1.6" height="1.8">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							<mask maskUnits="userSpaceOnUse" x="80" y="367" width="1.6" height="1.8" id="mask-78">
+								<g class="st97">
+									<path id="path-77" class="st2" d="M80.9,368.8c0.5,0,0.8-0.4,0.8-0.9c0-0.5-0.4-0.9-0.8-0.9c-0.5,0-0.8,0.4-0.8,0.9
+										C80,368.4,80.4,368.8,80.9,368.8L80.9,368.8z"/>
+								</g>
+							</mask>
+							<path id="Fill-269" sketch:type="MSShapeGroup" class="st98" d="M80,367h1.6v1.8H80V367z"/>
+						</g>
+						<g id="Group-274" transform="translate(48.378486, 16.312480)">
+							<g id="Clip-273">
+							</g>
+							<defs>
+								<filter id="Adobe_OpacityMaskFilter_39_" filterUnits="userSpaceOnUse" x="80.2" y="367.1" width="1.6" height="1.8">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							<mask maskUnits="userSpaceOnUse" x="80.2" y="367.1" width="1.6" height="1.8" id="mask-80">
+								<g class="st99">
+									<path id="path-79" class="st2" d="M81.1,368.9c0.5,0,0.8-0.4,0.8-0.9c0-0.5-0.4-0.9-0.8-0.9c-0.5,0-0.8,0.4-0.8,0.9
+										C80.2,368.5,80.6,368.9,81.1,368.9L81.1,368.9z"/>
+								</g>
+							</mask>
+							<path id="Fill-272" sketch:type="MSShapeGroup" class="st100" d="M80.2,367.1h1.6v1.8h-1.6V367.1z"/>
+						</g>
+						<g id="Group-277" transform="translate(53.461926, 34.804464)">
+							<g id="Clip-276">
+							</g>
+							<defs>
+								<filter id="Adobe_OpacityMaskFilter_40_" filterUnits="userSpaceOnUse" x="80.3" y="367" width="1.6" height="1.8">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							<mask maskUnits="userSpaceOnUse" x="80.3" y="367" width="1.6" height="1.8" id="mask-82">
+								<g class="st101">
+									<path id="path-81" class="st2" d="M81.1,368.8c0.5,0,0.8-0.4,0.8-0.9c0-0.5-0.4-0.9-0.8-0.9s-0.8,0.4-0.8,0.9
+										C80.3,368.4,80.6,368.8,81.1,368.8L81.1,368.8z"/>
+								</g>
+							</mask>
+							<path id="Fill-275" sketch:type="MSShapeGroup" class="st102" d="M80.3,367h1.6v1.8h-1.6V367z"/>
+						</g>
+						<g id="Group-280" transform="translate(53.852960, 20.246945)">
+							<g id="Clip-279">
+							</g>
+							<defs>
+								<filter id="Adobe_OpacityMaskFilter_41_" filterUnits="userSpaceOnUse" x="80" y="367.1" width="1" height="1.1">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							<mask maskUnits="userSpaceOnUse" x="80" y="367.1" width="1" height="1.1" id="mask-84">
+								<g class="st103">
+									<path id="path-83" class="st2" d="M80.6,368.2c0.3,0,0.5-0.3,0.5-0.6c0-0.3-0.2-0.6-0.5-0.6c-0.3,0-0.5,0.3-0.5,0.6
+										C80,367.9,80.3,368.2,80.6,368.2L80.6,368.2z"/>
+								</g>
+							</mask>
+							<path id="Fill-278" sketch:type="MSShapeGroup" class="st104" d="M80,367.1h1v1.1h-1V367.1z"/>
+						</g>
+						<g id="Group-283" transform="translate(56.590197, 23.001070)">
+							<g id="Clip-282">
+							</g>
+							<defs>
+								<filter id="Adobe_OpacityMaskFilter_42_" filterUnits="userSpaceOnUse" x="80.2" y="367.2" width="1" height="1.1">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							<mask maskUnits="userSpaceOnUse" x="80.2" y="367.2" width="1" height="1.1" id="mask-86">
+								<g class="st105">
+									<path id="path-85" class="st2" d="M80.7,368.3c0.3,0,0.5-0.3,0.5-0.6c0-0.3-0.2-0.6-0.5-0.6c-0.3,0-0.5,0.3-0.5,0.6
+										C80.2,368,80.4,368.3,80.7,368.3L80.7,368.3z"/>
+								</g>
+							</mask>
+							<path id="Fill-281" sketch:type="MSShapeGroup" class="st106" d="M80.2,367.2h1v1.1h-1V367.2z"/>
+						</g>
+						<g id="Group-286" transform="translate(63.237773, 24.968302)">
+							<g id="Clip-285">
+							</g>
+							<defs>
+								<filter id="Adobe_OpacityMaskFilter_43_" filterUnits="userSpaceOnUse" x="80.3" y="367.1" width="1" height="1.1">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							<mask maskUnits="userSpaceOnUse" x="80.3" y="367.1" width="1" height="1.1" id="mask-88">
+								<g class="st107">
+									<path id="path-87" class="st2" d="M80.8,368.2c0.3,0,0.5-0.3,0.5-0.6c0-0.3-0.2-0.6-0.5-0.6c-0.3,0-0.5,0.3-0.5,0.6
+										C80.3,368,80.5,368.2,80.8,368.2L80.8,368.2z"/>
+								</g>
+							</mask>
+							<path id="Fill-284" sketch:type="MSShapeGroup" class="st108" d="M80.3,367.1h1v1.1h-1V367.1z"/>
+						</g>
+						<g id="Group-289" transform="translate(58.154333, 17.886266)">
+							<g id="Clip-288">
+							</g>
+							<defs>
+								<filter id="Adobe_OpacityMaskFilter_44_" filterUnits="userSpaceOnUse" x="80.2" y="367.4" width="1" height="1.1">
+									<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+								</filter>
+							</defs>
+							<mask maskUnits="userSpaceOnUse" x="80.2" y="367.4" width="1" height="1.1" id="mask-90">
+								<g class="st109">
+									<path id="path-89" class="st2" d="M80.8,368.5c0.3,0,0.5-0.3,0.5-0.6c0-0.3-0.2-0.6-0.5-0.6c-0.3,0-0.5,0.3-0.5,0.6
+										C80.2,368.2,80.5,368.5,80.8,368.5L80.8,368.5z"/>
+								</g>
+							</mask>
+							<path id="Fill-287" sketch:type="MSShapeGroup" class="st110" d="M80.2,367.4h1v1.1h-1V367.4z"/>
+						</g>
+					</g>
+				</g>
+				<g id="Group-Copy-11" transform="translate(99.874124, 88.029446)">
+					<path id="Rectangle-45" sketch:type="MSShapeGroup" class="st111" d="M86,367h125c3.3,0,6,2.7,6,6v65c0,3.3-2.7,6-6,6H86
+						c-3.3,0-6-2.7-6-6v-65C80,369.7,82.7,367,86,367z"/>
+					<text transform="matrix(1 0 0 1 88 391)" class="st2 st112 st113">实战健康度</text>
+					<text transform="matrix(1 0 0 1 88 409)" class="st2 st112 st114">战斗值：80%</text>
+					<text transform="matrix(1 0 0 1 88 426)" class="st2 st112 st114">系统健康值：78%</text>
+				</g>
+				
+					<g id="Oval-32-Copy-_x2B_-Oval-32-Copy-3-Copy-_x2B_-Oval-26-_x2B_-Oval-26-Copy-_x2B_-Group-_x2B_-Path-1046-_x2B_-Group-Copy-10" transform="translate(312.000000, 115.000000)">
+					
+						<g id="Oval-32-Copy-_x2B_-Oval-32-Copy-3-Copy-_x2B_-Oval-26-_x2B_-Oval-26-Copy-_x2B_-Group-_x2B_-Path-1046" transform="translate(0.000000, 42.000000)">
+						<g id="Oval-32-Copy-_x2B_-Oval-32-Copy-3-Copy" transform="translate(20.000000, 79.000000)" sketch:type="MSShapeGroup">
+							<ellipse id="Oval-32-Copy_1_" class="st2" cx="91.2" cy="379" rx="6.6" ry="6.6"/>
+							<ellipse id="Oval-32-Copy-3_1_" class="st3" cx="91.2" cy="379" rx="11.1" ry="11.1"/>
+						</g>
+						<g id="Oval-26-_x2B_-Oval-26-Copy-_x2B_-Group-_x2B_-Path-1046" transform="translate(0.915278, 0.446422)">
+							<g id="Oval-26-_x2B_-Oval-26-Copy-_x2B_-Group_1_">
+								<ellipse id="Oval-26_1_" sketch:type="MSShapeGroup" class="st2" cx="112.5" cy="399.5" rx="32.5" ry="32.5">
+								</ellipse>
+								<ellipse id="Oval-26-Copy_1_" sketch:type="MSShapeGroup" class="st4" cx="112.5" cy="399.5" rx="26.5" ry="26.5">
+								</ellipse>
+								<g id="Group" transform="translate(11.000000, 4.000000)">
+									<g id="Group-292" transform="translate(8.012892, 42.399193)">
+										<g id="Clip-291">
+										</g>
+										<defs>
+											<filter id="Adobe_OpacityMaskFilter_45_" filterUnits="userSpaceOnUse" x="80.1" y="367.2" width="4.8" height="11.7">
+												<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+											</filter>
+										</defs>
+										<mask maskUnits="userSpaceOnUse" x="80.1" y="367.2" width="4.8" height="11.7" id="mask-92">
+											<g class="st115">
+												<path id="path-91" class="st2" d="M80.1,377.4c0-1.5,2.6-1.3,3-2.4c0.6-1.7,0.1-6.5,0.1-6.5c-0.1-0.7,0.5-1.3,1.2-1.3
+													h-0.9c0.7,0,1.3,0.6,1.3,1.3v8.2c0,0.7-0.6,1.3-1.3,1.3h0.9c-0.7,0-1.9,0.1-2.6,0.2C81.8,378.3,80.1,378.9,80.1,377.4
+													L80.1,377.4z"/>
+											</g>
+										</mask>
+										<path id="Fill-290" sketch:type="MSShapeGroup" class="st116" d="M80.1,367.2h4.8v11.7h-4.8V367.2z"/>
+									</g>
+									<g id="Group-295" transform="translate(28.926070, 42.399193)">
+										<g id="Clip-294">
+										</g>
+										<defs>
+											<filter id="Adobe_OpacityMaskFilter_46_" filterUnits="userSpaceOnUse" x="80.1" y="367.2" width="4.8" height="11.4">
+												<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+											</filter>
+										</defs>
+										<mask maskUnits="userSpaceOnUse" x="80.1" y="367.2" width="4.8" height="11.4" id="mask-94">
+											<g class="st117">
+												<path id="path-93" class="st2" d="M80.1,368.5c0-0.7,0.6-1.3,1.3-1.3h-0.8c0.7,0,1.3,0.6,1.3,1.3v6.2c0,1.6,3,1.2,3,2.5
+													c0,1.3-1.7,0.9-1.7,0.9c-0.7-0.1-1.9-0.1-2.6-0.1h0.8c-0.7,0-1.3-0.6-1.3-1.3V368.5L80.1,368.5z"/>
+											</g>
+										</mask>
+										<path id="Fill-293" sketch:type="MSShapeGroup" class="st118" d="M80.1,367.2h4.8v11.4h-4.8V367.2z"/>
+									</g>
+									<g id="Group-298" transform="translate(28.926070, 47.148683)">
+										<g id="Clip-297">
+										</g>
+										<defs>
+											<filter id="Adobe_OpacityMaskFilter_47_" filterUnits="userSpaceOnUse" x="80.1" y="367.2" width="1.8" height="1.9">
+												<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+											</filter>
+										</defs>
+										<mask maskUnits="userSpaceOnUse" x="80.1" y="367.2" width="1.8" height="1.9" id="mask-96">
+											<g class="st119">
+												<path id="path-95" class="st2" d="M80.1,368.2v0.9c0,0,0.6-0.1,1.1-0.3c0.5-0.2,0.7-0.4,0.7-0.4v-1.2L80.1,368.2
+													L80.1,368.2z"/>
+											</g>
+										</mask>
+										<path id="Fill-296" sketch:type="MSShapeGroup" class="st120" d="M80.1,367.2h1.8v1.9h-1.8V367.2z"/>
+									</g>
+									<g id="Group-301" transform="translate(11.181555, 47.465315)">
+										<g id="Clip-300">
+										</g>
+										<defs>
+											<filter id="Adobe_OpacityMaskFilter_48_" filterUnits="userSpaceOnUse" x="80.2" y="367.1" width="1.6" height="1.6">
+												<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+											</filter>
+										</defs>
+										<mask maskUnits="userSpaceOnUse" x="80.2" y="367.1" width="1.6" height="1.6" id="mask-98">
+											<g class="st121">
+												<path id="path-97" class="st2" d="M81.7,367.7v1c0,0-0.4,0-0.9-0.2c-0.5-0.2-0.7-0.4-0.7-0.4l0.1-1L81.7,367.7
+													L81.7,367.7z"/>
+											</g>
+										</mask>
+										<path id="Fill-299" sketch:type="MSShapeGroup" class="st122" d="M80.2,367.1h1.6v1.6h-1.6V367.1z"/>
+									</g>
+									<g id="Group-304" transform="translate(0.091234, 8.202869)">
+										<g id="Clip-303">
+										</g>
+										<defs>
+											<filter id="Adobe_OpacityMaskFilter_49_" filterUnits="userSpaceOnUse" x="80.1" y="367" width="41.7" height="41.7">
+												<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+											</filter>
+										</defs>
+										<mask maskUnits="userSpaceOnUse" x="80.1" y="367" width="41.7" height="41.7" id="mask-100">
+											<g class="st123">
+												<path id="path-99" class="st2" d="M100.9,408.7c11.5,0,20.8-9.3,20.8-20.8s-9.3-20.8-20.8-20.8
+													c-11.5,0-20.8,9.3-20.8,20.8S89.4,408.7,100.9,408.7L100.9,408.7z"/>
+											</g>
+										</mask>
+										<path id="Fill-302" sketch:type="MSShapeGroup" class="st124" d="M80.1,367h41.7v41.7H80.1V367z"/>
+									</g>
+									<g>
+										<defs>
+											<polygon id="SVGID_53_" points="81,368 82,368 81,369 											"/>
+										</defs>
+										<defs>
+											<polygon id="SVGID_54_" points="79,366 78,366 79,365 											"/>
+										</defs>
+										<clipPath id="SVGID_55_">
+											<use xlink:href="#SVGID_53_"  style="overflow:visible;"/>
+										</clipPath>
+										<clipPath id="SVGID_56_" class="st125">
+											<use xlink:href="#SVGID_54_"  style="overflow:visible;"/>
+										</clipPath>
+										<g transform="matrix(0.1095 0 0 0 88.1422 379.7215)" style="clip-path:url(#SVGID_56_);enable-background:new    ;">
+											
+												<image style="overflow:visible;" width="6" height="6" id="Image-305" xlink:href="969CA36EBCFF3D67.png"  sketch:type="MSBitmapLayer" transform="matrix(0.1095 0 0 0 88.1422 379.7215)">
+											</image>
+										</g>
+									</g>
+									<g>
+										<defs>
+											<polygon id="SVGID_57_" points="81,368 82,368 81,369 											"/>
+										</defs>
+										<defs>
+											<polygon id="SVGID_58_" points="79,366 78,366 79,365 											"/>
+										</defs>
+										<clipPath id="SVGID_59_">
+											<use xlink:href="#SVGID_57_"  style="overflow:visible;"/>
+										</clipPath>
+										<clipPath id="SVGID_60_" class="st126">
+											<use xlink:href="#SVGID_58_"  style="overflow:visible;"/>
+										</clipPath>
+										<g transform="matrix(0.1095 0 0 0 88.1422 404.8864)" style="clip-path:url(#SVGID_60_);enable-background:new    ;">
+											
+												<image style="overflow:visible;" width="224" height="234" id="Image-306" xlink:href="969CA36EBCFF3D77.png"  sketch:type="MSBitmapLayer" transform="matrix(0.1095 0 0 0 88.1422 404.8864)">
+											</image>
+										</g>
+									</g>
+									<g id="Group-309" transform="translate(13.082753, 16.118685)">
+										<g id="Clip-308">
+										</g>
+										<defs>
+											<filter id="Adobe_OpacityMaskFilter_50_" filterUnits="userSpaceOnUse" x="79" y="366.1" width="16.6" height="18">
+												<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+											</filter>
+										</defs>
+										<mask maskUnits="userSpaceOnUse" x="79" y="366.1" width="16.6" height="18" id="mask-102">
+											<g class="st127">
+												<path id="path-101" class="st2" d="M87.6,367.3c-1.6,0-3.3,0.3-4.8,1.6c-1.5,1.4-2.7,3.8-2.5,6.7c0.1,2.1,1.2,3.8,2,4.9
+													c0.8,1.1,2.7,2.3,5,2.4c2.4,0,4.1-1,5.5-2.8c1.1-1.5,1.6-3.6,1.6-5.3C94.4,370.8,91.2,367.4,87.6,367.3"/>
+											</g>
+										</mask>
+										<path id="Fill-307" sketch:type="MSShapeGroup" class="st128" d="M95.3,384.1L79,383.8l0.3-17.7l16.3,0.3L95.3,384.1"/>
+									</g>
+									<g id="Group-312" transform="translate(17.835749, 21.184807)">
+										<g id="Clip-311">
+										</g>
+										<defs>
+											<filter id="Adobe_OpacityMaskFilter_51_" filterUnits="userSpaceOnUse" x="79" y="366" width="7.1" height="8">
+												<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+											</filter>
+										</defs>
+										<mask maskUnits="userSpaceOnUse" x="79" y="366" width="7.1" height="8" id="mask-104">
+											<g class="st129">
+												<path id="path-103" class="st2" d="M82.6,367.2c-1.3,0-2.4,1.2-2.4,2.7c-0.1,1.5,1,2.8,2.2,2.9c1.3,0,2.4-1.2,2.4-2.7
+													C84.9,368.5,83.9,367.3,82.6,367.2"/>
+											</g>
+										</mask>
+										<path id="Fill-310" sketch:type="MSShapeGroup" class="st130" d="M85.8,374l-6.9-0.2l0.3-7.8l6.9,0.2L85.8,374"/>
+									</g>
+									<g id="Group-315" transform="translate(0.408100, 30.683786)">
+										<g id="Clip-314">
+										</g>
+										<defs>
+											<filter id="Adobe_OpacityMaskFilter_52_" filterUnits="userSpaceOnUse" x="78.5" y="357.2" width="43.3" height="34.6">
+												<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+											</filter>
+										</defs>
+										<mask maskUnits="userSpaceOnUse" x="78.5" y="357.2" width="43.3" height="34.6" id="mask-106">
+											<g class="st131">
+												<path id="path-105" class="st2" d="M105.5,385.5c4.6-1.2,8.5-3.8,11.2-7.3c1.2-1.5,2.1-2.6,2-3.4
+													c-0.1-1.7-5.7,3.5-8.6,4.6c-5.2,1.9-8.1,3.1-15.2,1.4c-2.4-0.6-6.3-3.2-8.4-5.2c-3.8-3.8-5.6-8.2-6.2-8.4
+													c-0.3-0.1-0.4,0.8,0.3,3.5C83.4,381.6,94.5,388.2,105.5,385.5"/>
+											</g>
+										</mask>
+										<path id="Fill-313" sketch:type="MSShapeGroup" class="st132" d="M78.5,366.4l37-9.2l6.3,25.4l-37,9.2L78.5,366.4"/>
+									</g>
+									<g id="Group-318" transform="translate(24.489942, 7.886237)">
+										<g id="Clip-317">
+										</g>
+										<defs>
+											<filter id="Adobe_OpacityMaskFilter_53_" filterUnits="userSpaceOnUse" x="78.6" y="364.4" width="12.6" height="9.5">
+												<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+											</filter>
+										</defs>
+										<mask maskUnits="userSpaceOnUse" x="78.6" y="364.4" width="12.6" height="9.5" id="mask-108">
+											<g class="st133">
+												<path id="path-107" class="st2" d="M80.1,368.9c0,0,3.1,3.5,7.6,1.5c1.2-0.5,1.8-1.5,1.8-1.5s-2.4-1.8-4.4-1.8
+													C83.2,367.1,80.1,368.9,80.1,368.9"/>
+											</g>
+										</mask>
+										<path id="Fill-316" sketch:type="MSShapeGroup" class="st134" d="M78.6,367.8l10.6-3.4l2,6.1l-10.6,3.4L78.6,367.8"/>
+									</g>
+									<g id="Group-321" transform="translate(19.736947, 0.920319)">
+										<g id="Clip-320">
+										</g>
+										<defs>
+											<filter id="Adobe_OpacityMaskFilter_54_" filterUnits="userSpaceOnUse" x="78.5" y="365.2" width="9.8" height="15.3">
+												<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+											</filter>
+										</defs>
+										<mask maskUnits="userSpaceOnUse" x="78.5" y="365.2" width="9.8" height="15.3" id="mask-110">
+											<g class="st135">
+												<path id="path-109" class="st2" d="M86.6,378.5c0,0-6.1-1.7-6.3-8.4c-0.1-1.8,0.8-3.1,0.8-3.1s3.6,1.9,4.7,4.2
+													C86.9,373.6,86.6,378.5,86.6,378.5"/>
+											</g>
+										</mask>
+										<path id="Fill-319" sketch:type="MSShapeGroup" class="st136" d="M88.3,379.3l-2-14.2l-7.8,1.1l2,14.2L88.3,379.3"/>
+									</g>
+									<g id="Group-324" transform="translate(20.053813, 22.134705)">
+										<g id="Clip-323">
+										</g>
+										<defs>
+											<filter id="Adobe_OpacityMaskFilter_55_" filterUnits="userSpaceOnUse" x="80" y="367.2" width="1.8" height="1.9">
+												<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+											</filter>
+										</defs>
+										<mask maskUnits="userSpaceOnUse" x="80" y="367.2" width="1.8" height="1.9" id="mask-112">
+											<g class="st137">
+												<path id="path-111" class="st2" d="M81.3,367.3c-0.3-0.1-0.6-0.1-0.6-0.1s-0.7,0-0.7,0.6c0,0.6,0.9,0.6,0.9,1.1
+													c0,0.1,0.1,0.2,0.2,0.2c0.3,0,0.7-0.4,0.7-1C81.9,367.6,81.6,367.4,81.3,367.3c0.3,0.1,0.6,0.3,0.6,0.8
+													c0,0.8-0.9,1.3-0.9,0.8c0-0.5-0.9-0.5-0.9-1.1c0-0.6,0.7-0.6,0.7-0.6S81,367.2,81.3,367.3L81.3,367.3z"/>
+											</g>
+										</mask>
+										<path id="Fill-322" sketch:type="MSShapeGroup" class="st138" d="M80,367.2h1.8v1.9H80V367.2z"/>
+									</g>
+									<g id="Group-327" transform="translate(18.786348, 24.667766)">
+										<g id="Clip-326">
+										</g>
+										<defs>
+											<filter id="Adobe_OpacityMaskFilter_56_" filterUnits="userSpaceOnUse" x="78.9" y="366" width="3.6" height="3.6">
+												<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+											</filter>
+										</defs>
+										<mask maskUnits="userSpaceOnUse" x="78.9" y="366" width="3.6" height="3.6" id="mask-114">
+											<g class="st139">
+												<path id="path-113" class="st2" d="M80.1,367.6c0,0,0,0.7,0.5,0.8c0.5,0,0.9-0.5,0.5-0.5c-0.3,0-0.3-0.6-0.7-0.6
+													C80.1,367.1,80.1,367.6,80.1,367.6"/>
+											</g>
+										</mask>
+										<path id="Fill-325" sketch:type="MSShapeGroup" class="st140" d="M79.1,366l-0.2,3.4l3.4,0.2l0.2-3.4L79.1,366"/>
+									</g>
+									<g id="Group-330" transform="translate(13.716486, 35.749908)">
+										<g id="Clip-329">
+										</g>
+										<defs>
+											<filter id="Adobe_OpacityMaskFilter_57_" filterUnits="userSpaceOnUse" x="78.6" y="364.7" width="16.1" height="7.4">
+												<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+											</filter>
+										</defs>
+										<mask maskUnits="userSpaceOnUse" x="78.6" y="364.7" width="16.1" height="7.4" id="mask-116">
+											<g class="st141">
+												<path id="path-115" class="st2" d="M80.1,367.3c0-0.1,1.3,0.4,3.1,1c2,0.6,4.5,1.2,6.3,0.9c3.6-0.5,3.1-1.5,3.8-1.4
+													c0.7,0.1-1.7,1.7-3.8,2.4C87.5,370.8,80.2,367.5,80.1,367.3"/>
+											</g>
+										</mask>
+										<path id="Fill-328" sketch:type="MSShapeGroup" class="st142" d="M79.4,364.7l15.3,2.2l-0.7,5.3L78.6,370L79.4,364.7"/>
+									</g>
+									<path id="Fill-331" sketch:type="MSShapeGroup" class="st143" d="M93.8,403l0.7-0.3L93.8,403l0.8,0c0-0.1,0-0.2-0.1-0.3
+										L93.8,403l0.8,0L93.8,403l0.6,0.4c0.1-0.1,0.2-0.3,0.1-0.4L93.8,403l0.6,0.4L93.8,403l0.4,0.6c0.1,0,0.2-0.1,0.2-0.2
+										L93.8,403l0.4,0.6L93.8,403l0.1,0.7c0.1,0,0.1,0,0.2-0.1L93.8,403l0.1,0.7L93.8,403l0,0.7c0,0,0.1,0,0.1,0L93.8,403l0,0.7
+										v-0.5l-0.1,0.5c0,0,0,0,0.1,0v-0.5l-0.1,0.5l0-0.1l0,0.1l0,0l0-0.1l0,0.1c0,0,0,0,0.1,0c0.2,0.1,0.7,0.2,1.3,0.4
+										c0.9,0.3,2.1,0.7,3.3,1c1.3,0.3,2.6,0.5,3.9,0.5c0.4,0,0.7,0,1.1-0.1c0.9-0.1,1.6-0.3,2.1-0.5c0.4-0.1,0.7-0.3,0.9-0.4
+										c0.2-0.1,0.3-0.2,0.5-0.3c0.2-0.1,0.3-0.3,0.3-0.3l0,0l-0.1-0.1l0.1,0.1l0,0l-0.1-0.1l0.1,0.1l-0.2-0.3l0.1,0.4
+										c0,0,0.1,0,0.1,0l-0.2-0.3l0.1,0.4l-0.1-0.4v0.4c0,0,0.1,0,0.1,0l-0.1-0.4v0.4v-0.2l0,0.2l0,0v-0.2l0,0.2l0,0l0.1-0.5
+										l-0.2,0.5c0.1,0,0.1,0,0.1,0l0.1-0.5l-0.2,0.5l0.2-0.6l-0.5,0.4c0.1,0.1,0.2,0.2,0.3,0.2l0.2-0.6l-0.5,0.4l0.5-0.4h-0.7
+										c0,0.1,0,0.3,0.1,0.4l0.5-0.4h-0.7h0.6l-0.5-0.3c0,0-0.1,0.1-0.1,0.3h0.6l-0.5-0.3l0.3,0.1l-0.3-0.2l0,0l0.3,0.1l-0.3-0.2
+										l0.1,0.1l-0.1-0.1l0,0l0.1,0.1l-0.1-0.1l0,0c0,0-0.1,0.1-0.1,0.1c-0.1,0.1-0.3,0.3-0.6,0.4c-0.7,0.5-1.8,1-2.7,1.3
+										c-0.1,0-0.2,0.1-0.5,0.1c-0.3,0-0.6,0-1-0.1c-0.7-0.1-1.5-0.3-2.3-0.6c-1.2-0.4-2.5-0.9-3.5-1.3c-0.5-0.2-0.9-0.4-1.2-0.5
+										c-0.1-0.1-0.2-0.1-0.3-0.2l0,0l0,0l-0.1,0.1l0.1-0.1l0,0l-0.1,0.1l0.1-0.1l-0.3,0.4l0.4-0.4c0,0,0,0-0.1,0l-0.3,0.4
+										l0.4-0.4L93.8,403l0.6-0.5c0,0,0-0.1-0.1-0.1L93.8,403l0.6-0.5L93.8,403l0.7-0.3c0-0.1-0.1-0.1-0.1-0.2L93.8,403l0.7-0.3
+										l0,0L93.8,403l-0.7,0.3c0.1,0.1,0.1,0.2,0.1,0.2c0.1,0.1,0.1,0.1,0.2,0.1c0.1,0.1,0.2,0.1,0.2,0.2c0.2,0.1,0.4,0.2,0.6,0.3
+										c0.9,0.4,2.4,1.1,3.9,1.6c0.8,0.3,1.6,0.5,2.3,0.7c0.7,0.2,1.4,0.3,2.1,0.3c0.3,0,0.6,0,0.9-0.1c1-0.3,2-0.8,2.8-1.3
+										c0.4-0.2,0.7-0.5,1-0.7c0.1-0.1,0.2-0.2,0.4-0.4c0.1-0.1,0.1-0.1,0.2-0.2c0-0.1,0.1-0.2,0.1-0.4c0-0.1,0-0.2-0.1-0.3
+										c-0.1-0.2-0.2-0.3-0.4-0.4c-0.1-0.1-0.2-0.1-0.3-0.1l0,0c-0.1,0-0.1,0-0.2,0c-0.2,0-0.4,0-0.5,0.1
+										c-0.1,0.1-0.2,0.1-0.3,0.2c-0.1,0.1-0.2,0.2-0.3,0.2c-0.1,0.1-0.3,0.2-0.7,0.4c-0.4,0.2-1,0.3-2,0.4
+										c-0.3,0-0.6,0.1-0.9,0.1c-0.8,0-1.7-0.1-2.6-0.3c-1.3-0.3-2.7-0.7-3.7-1c-0.5-0.2-1-0.3-1.3-0.4c-0.2-0.1-0.3-0.1-0.4-0.1
+										c-0.1,0-0.1,0-0.2,0c0,0-0.1,0-0.1,0c0,0-0.1,0-0.2,0c-0.1,0-0.2,0-0.3,0.1c-0.1,0-0.2,0.1-0.3,0.2
+										c-0.1,0.1-0.2,0.3-0.2,0.5c0,0.1,0,0.2,0.1,0.3l0,0L93.8,403"/>
+									<g id="Group-334" transform="translate(14.350219, 36.066541)">
+										<g id="Clip-333">
+										</g>
+										<defs>
+											<filter id="Adobe_OpacityMaskFilter_58_" filterUnits="userSpaceOnUse" x="78.8" y="364.9" width="14.8" height="6.7">
+												<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+											</filter>
+										</defs>
+										<mask maskUnits="userSpaceOnUse" x="78.8" y="364.9" width="14.8" height="6.7" id="mask-118">
+											<g class="st144">
+												<path id="path-117" class="st2" d="M85.1,369.1c-1.5-0.4-1.3-0.4-1.9-0.5c-2-0.6-3.2-1.1-2.9-1.3
+													c0.2-0.1,0.8,0.3,1.8,0.6c1.8,0.6,3.6,1.1,5.8,1.2c1.8,0.1,3.1-0.4,3.6-0.6c0.7-0.3,0.5-0.8,0.8-0.8
+													c0.3,0,0.1,0.5-0.7,1c-0.7,0.4-1.9,0.9-3.1,1C87.6,369.8,86.6,369.5,85.1,369.1"/>
+											</g>
+										</mask>
+										<path id="Fill-332" sketch:type="MSShapeGroup" class="st145" d="M79.5,364.9l14.1,2l-0.7,4.7l-14.1-2L79.5,364.9"/>
+									</g>
+									<g id="Group-337" transform="translate(8.963491, 32.266949)">
+										<g id="Clip-336">
+										</g>
+										<defs>
+											<filter id="Adobe_OpacityMaskFilter_59_" filterUnits="userSpaceOnUse" x="75.6" y="365.4" width="15.6" height="15.6">
+												<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+											</filter>
+										</defs>
+										<mask maskUnits="userSpaceOnUse" x="75.6" y="365.4" width="15.6" height="15.6" id="mask-120">
+											<g class="st146">
+												<path id="path-119" class="st2" d="M80.2,367.1c0,0,1,3.9,1.8,5.6c0.7,1.5,2.6,4.2,2.6,4.2s-1.2,1.1-0.7,1.7
+													c0.5,0.6,1.2-0.8,1.2-0.8s-0.1,1,0.6,1.2c0.6,0.2,0.2-1.8,0.2-1.8s1.5,0.6,1.7,0c0.2-0.6-0.7-0.7-1.3-0.9
+													c-0.2-0.1-1.8-2.1-2.9-4.1c-1.2-2.4-2-5-2-5L80.2,367.1"/>
+											</g>
+										</mask>
+										<path id="Fill-335" sketch:type="MSShapeGroup" class="st147" d="M75.6,377l4-11.6l11.6,4l-4,11.6L75.6,377"/>
+									</g>
+									<g id="Group-340" transform="translate(25.440541, 31.950316)">
+										<g id="Clip-339">
+										</g>
+										<defs>
+											<filter id="Adobe_OpacityMaskFilter_60_" filterUnits="userSpaceOnUse" x="76.4" y="365.5" width="15.6" height="15.6">
+												<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+											</filter>
+										</defs>
+										<mask maskUnits="userSpaceOnUse" x="76.4" y="365.5" width="15.6" height="15.6" id="mask-122">
+											<g class="st148">
+												<path id="path-121" class="st2" d="M87.5,367.2c0,0-1,3.9-1.8,5.6c-0.7,1.5-2.6,4.2-2.6,4.2s1.2,1.1,0.7,1.7
+													c-0.5,0.6-1.2-0.8-1.2-0.8s0.1,1-0.6,1.2c-0.6,0.2-0.2-1.8-0.2-1.8s-1.5,0.6-1.7,0c-0.2-0.6,0.7-0.7,1.3-0.9
+													c0.2-0.1,1.8-2.1,2.9-4.1c1.2-2.4,2-5,2-5L87.5,367.2"/>
+											</g>
+										</mask>
+										<path id="Fill-338" sketch:type="MSShapeGroup" class="st149" d="M92,377.1l-4-11.6l-11.6,4l4,11.6L92,377.1"/>
+									</g>
+									<g id="Group-343" transform="translate(35.897130, 18.018481)">
+										<g id="Clip-342">
+										</g>
+										<defs>
+											<filter id="Adobe_OpacityMaskFilter_61_" filterUnits="userSpaceOnUse" x="80.3" y="367.2" width="1.8" height="2">
+												<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+											</filter>
+										</defs>
+										<mask maskUnits="userSpaceOnUse" x="80.3" y="367.2" width="1.8" height="2" id="mask-124">
+											<g class="st150">
+												<path id="path-123" class="st2" d="M81.2,369.2c0.5,0,0.9-0.4,0.9-1s-0.4-1-0.9-1c-0.5,0-0.9,0.4-0.9,1
+													S80.7,369.2,81.2,369.2L81.2,369.2z"/>
+											</g>
+										</mask>
+										<path id="Fill-341" sketch:type="MSShapeGroup" class="st151" d="M80.3,367.2h1.8v2h-1.8V367.2z"/>
+									</g>
+									<g id="Group-346" transform="translate(32.094734, 17.068583)">
+										<g id="Clip-345">
+										</g>
+										<defs>
+											<filter id="Adobe_OpacityMaskFilter_62_" filterUnits="userSpaceOnUse" x="80" y="367.1" width="1.8" height="2">
+												<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+											</filter>
+										</defs>
+										<mask maskUnits="userSpaceOnUse" x="80" y="367.1" width="1.8" height="2" id="mask-126">
+											<g class="st152">
+												<path id="path-125" class="st2" d="M80.9,369.1c0.5,0,0.9-0.4,0.9-1s-0.4-1-0.9-1c-0.5,0-0.9,0.4-0.9,1
+													S80.4,369.1,80.9,369.1L80.9,369.1z"/>
+											</g>
+										</mask>
+										<path id="Fill-344" sketch:type="MSShapeGroup" class="st153" d="M80,367.1h1.8v2H80V367.1z"/>
+									</g>
+									<g id="Group-349" transform="translate(27.341739, 15.485420)">
+										<g id="Clip-348">
+										</g>
+										<defs>
+											<filter id="Adobe_OpacityMaskFilter_63_" filterUnits="userSpaceOnUse" x="80.2" y="367.1" width="1.3" height="1.4">
+												<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+											</filter>
+										</defs>
+										<mask maskUnits="userSpaceOnUse" x="80.2" y="367.1" width="1.3" height="1.4" id="mask-128">
+											<g class="st154">
+												<path id="path-127" class="st2" d="M80.9,368.5c0.4,0,0.7-0.3,0.7-0.7c0-0.4-0.3-0.7-0.7-0.7c-0.4,0-0.7,0.3-0.7,0.7
+													C80.2,368.2,80.5,368.5,80.9,368.5L80.9,368.5z"/>
+											</g>
+										</mask>
+										<path id="Fill-347" sketch:type="MSShapeGroup" class="st155" d="M80.2,367.1h1.3v1.4h-1.3V367.1z"/>
+									</g>
+									<g id="Group-352" transform="translate(33.362199, 21.501440)">
+										<g id="Clip-351">
+										</g>
+										<defs>
+											<filter id="Adobe_OpacityMaskFilter_64_" filterUnits="userSpaceOnUse" x="80" y="367.2" width="0.8" height="0.9">
+												<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+											</filter>
+										</defs>
+										<mask maskUnits="userSpaceOnUse" x="80" y="367.2" width="0.8" height="0.9" id="mask-130">
+											<g class="st156">
+												<path id="path-129" class="st2" d="M80.4,368.1c0.2,0,0.4-0.2,0.4-0.5c0-0.2-0.2-0.5-0.4-0.5c-0.2,0-0.4,0.2-0.4,0.5
+													C80,367.9,80.2,368.1,80.4,368.1L80.4,368.1z"/>
+											</g>
+										</mask>
+										<path id="Fill-350" sketch:type="MSShapeGroup" class="st157" d="M80,367.2h0.8v0.9H80V367.2z"/>
+									</g>
+									<g id="Group-355" transform="translate(35.580263, 23.717868)">
+										<g id="Clip-354">
+										</g>
+										<defs>
+											<filter id="Adobe_OpacityMaskFilter_65_" filterUnits="userSpaceOnUse" x="80.2" y="367.3" width="0.8" height="0.9">
+												<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+											</filter>
+										</defs>
+										<mask maskUnits="userSpaceOnUse" x="80.2" y="367.3" width="0.8" height="0.9" id="mask-132">
+											<g class="st158">
+												<path id="path-131" class="st2" d="M80.6,368.2c0.2,0,0.4-0.2,0.4-0.5c0-0.3-0.2-0.5-0.4-0.5c-0.2,0-0.4,0.2-0.4,0.5
+													C80.2,368,80.4,368.2,80.6,368.2L80.6,368.2z"/>
+											</g>
+										</mask>
+										<path id="Fill-353" sketch:type="MSShapeGroup" class="st159" d="M80.2,367.3H81v0.9h-0.8V367.3z"/>
+									</g>
+								</g>
+							</g>
+							<path id="Path-1046_1_" sketch:type="MSShapeGroup" class="st2" d="M104.4,427.7l6.6,12v-12.8L104.4,427.7z M117.6,427.7
+								l-6.6,12v-12.8L117.6,427.7z"/>
+						</g>
+					</g>
+					<g id="Group-Copy-10" transform="translate(75.915278, 0.446422)">
+						<path id="Rectangle-45_1_" sketch:type="MSShapeGroup" class="st160" d="M86,367h125c3.3,0,6,2.7,6,6v65c0,3.3-2.7,6-6,6H86
+							c-3.3,0-6-2.7-6-6v-65C80,369.7,82.7,367,86,367z"/>
+						<text transform="matrix(1 0 0 1 88 391)" class="st2 st112 st113">实战健康度</text>
+						<text transform="matrix(1 0 0 1 88 409)" class="st2 st112 st114">战斗值：80%</text>
+						<text transform="matrix(1 0 0 1 88 426)" class="st2 st112 st114">系统健康值：78%</text>
+					</g>
+				</g>
+				
+					<g id="Oval-32-Copy-_x2B_-Oval-32-Copy-3-Copy-Copy-_x2B_-Oval-26-_x2B_-Oval-26-Copy-_x2B_-Group-_x2B_-Path-1046-Copy-Copy-Copy-Copy-_x2B_-Group-Copy-4-_x2B_-Group-Copy-12" transform="translate(775.000000, 0.000000)">
+					
+						<g id="Oval-32-Copy-_x2B_-Oval-32-Copy-3-Copy-Copy-_x2B_-Oval-26-_x2B_-Oval-26-Copy-_x2B_-Group-_x2B_-Path-1046-Copy-Copy-Copy-Copy-_x2B_-Group-Copy-4" transform="translate(0.000000, 3.000000)">
+						
+							<g id="Oval-32-Copy-_x2B_-Oval-32-Copy-3-Copy-Copy" transform="translate(34.000000, 110.000000)" sketch:type="MSShapeGroup">
+							<ellipse id="Oval-32-Copy_2_" class="st2" cx="91.2" cy="379" rx="6.6" ry="6.6"/>
+							<ellipse id="Oval-32-Copy-3_2_" class="st3" cx="91.2" cy="379" rx="11.1" ry="11.1"/>
+						</g>
+						
+							<g id="Oval-26-_x2B_-Oval-26-Copy-_x2B_-Group-_x2B_-Path-1046-Copy-Copy-Copy-Copy-_x2B_-Group-Copy-4" transform="translate(0.805929, 0.933070)">
+							<g id="Oval-26-_x2B_-Oval-26-Copy-_x2B_-Group-_x2B_-Path-1046-Copy-Copy-Copy-Copy" sketch:type="MSShapeGroup">
+								<g id="Oval-26-_x2B_-Oval-26-Copy-_x2B_-Group_2_">
+									<ellipse id="Oval-26_2_" class="st2" cx="124.5" cy="411.4" rx="44.5" ry="44.4"/>
+									<ellipse id="Oval-26-Copy_2_" class="st4" cx="124.5" cy="411.4" rx="36.3" ry="36.2"/>
+								</g>
+								<path id="Path-1046_2_" class="st2" d="M115.4,453.7l9.1,10.3v-11L115.4,453.7z M133.6,453.7l-9.1,10.3v-11L133.6,453.7z"/>
+							</g>
+							<g id="Group-Copy-4" transform="translate(17.695906, 19.711230)">
+								<g id="Group-54" transform="translate(11.504270, 48.995343)">
+									<g id="Clip-53">
+									</g>
+									<defs>
+										<filter id="Adobe_OpacityMaskFilter_66_" filterUnits="userSpaceOnUse" x="79.2" y="367.1" width="7.7" height="3.3">
+											<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+										</filter>
+									</defs>
+									<mask maskUnits="userSpaceOnUse" x="79.2" y="367.1" width="7.7" height="3.3" id="mask-134">
+										<g class="st161">
+											<path id="path-133" class="st2" d="M80.5,368.6c-1.3,0.7,0.6,1.9,1.6,1.9c1,0,0.8-0.4,2.3-0.8c1.5-0.4,1.7-0.1,2.2-0.8
+												c0.4-0.7-0.8-1.7-1.4-1.7C84.6,367.1,81.8,367.8,80.5,368.6L80.5,368.6z"/>
+										</g>
+									</mask>
+									<path id="Fill-52" sketch:type="MSShapeGroup" class="st162" d="M79.2,367.1H87v3.3h-7.7V367.1z"/>
+								</g>
+								<g id="Group-57" transform="translate(35.051023, 49.328637)">
+									<g id="Clip-56">
+									</g>
+									<defs>
+										<filter id="Adobe_OpacityMaskFilter_67_" filterUnits="userSpaceOnUse" x="79.7" y="367.2" width="6.4" height="3.5">
+											<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+										</filter>
+									</defs>
+									<mask maskUnits="userSpaceOnUse" x="79.7" y="367.2" width="6.4" height="3.5" id="mask-136">
+										<g class="st163">
+											<path id="path-135" class="st2" d="M85.7,368.2c0.4,0.2,0.4,0.7,0.3,1c-0.2,0.7-0.6,1.4-1.2,1.4c-1,0-0.8-0.5-2.3-1
+												c-1.5-0.4-1.9,0-2.3-0.7c-0.4-0.7,0.7-1.8,1.3-1.8C82,367.2,84.4,367.5,85.7,368.2L85.7,368.2z"/>
+										</g>
+									</mask>
+									<path id="Fill-55" sketch:type="MSShapeGroup" class="st164" d="M79.7,367.2h6.4v3.5h-6.4V367.2z"/>
+								</g>
+								<g id="Group-60" transform="translate(11.840653, 38.996527)">
+									<g id="Clip-59">
+									</g>
+									<defs>
+										<filter id="Adobe_OpacityMaskFilter_68_" filterUnits="userSpaceOnUse" x="80.3" y="367.2" width="5.7" height="13.1">
+											<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+										</filter>
+									</defs>
+									<mask maskUnits="userSpaceOnUse" x="80.3" y="367.2" width="5.7" height="13.1" id="mask-138">
+										<g class="st165">
+											<path id="path-137" class="st2" d="M81,379.7c-0.1-0.1,0.4-0.8,0.3-1c0,0-0.2,0.1-0.3,0.2c-0.3,0.2-0.6,0.4-0.6,0
+												c0-0.6,3.4-1.8,3.8-3.1c0.7-1.9,0.1-7.3,0.1-7.3c-0.1-0.8,0.5-1.4,1.3-1.4h-0.9c0.8,0,1.4,0.6,1.4,1.4v9.2
+												c0,0.8-0.6,1.4-1.4,1.4h0.9c-0.8,0-2,0.2-2.7,0.5C82.8,379.7,81.9,380.3,81,379.7L81,379.7z"/>
+										</g>
+									</mask>
+									<path id="Fill-58" sketch:type="MSShapeGroup" class="st166" d="M80.3,367.2H86v13.1h-5.7V367.2z"/>
+								</g>
+								<g id="Group-63" transform="translate(35.387405, 39.663115)">
+									<g id="Clip-62">
+									</g>
+									<defs>
+										<filter id="Adobe_OpacityMaskFilter_69_" filterUnits="userSpaceOnUse" x="80.1" y="367" width="5.7" height="13.1">
+											<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+										</filter>
+									</defs>
+									<mask maskUnits="userSpaceOnUse" x="80.1" y="367" width="5.7" height="13.1" id="mask-140">
+										<g class="st167">
+											<path id="path-139" class="st2" d="M80.1,368.4c0-0.8,0.6-1.4,1.4-1.4h-0.8c0.8,0,1.4,0.6,1.4,1.4v7c0,1.8,3.7,2,3,3.2
+												c-0.1,0.1-0.3,0-0.5-0.1c-0.2-0.1-0.5-0.2-0.5-0.1c-0.2,0.2,0.8,0.4,0.5,0.9c-0.4,0.8-1.2,0.2-1.2,0.2
+												c-0.7-0.3-1.9-0.5-2.7-0.5h0.8c-0.8,0-1.4-0.6-1.4-1.4V368.4L80.1,368.4z"/>
+										</g>
+									</mask>
+									<path id="Fill-61" sketch:type="MSShapeGroup" class="st168" d="M80.1,367h5.7v13.1h-5.7V367z"/>
+								</g>
+								<g id="Group-66" transform="translate(0.067276, 3.334084)">
+									<g id="Clip-65">
+									</g>
+									<defs>
+										<filter id="Adobe_OpacityMaskFilter_70_" filterUnits="userSpaceOnUse" x="80.2" y="367.3" width="52.9" height="44.4">
+											<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+										</filter>
+									</defs>
+									<mask maskUnits="userSpaceOnUse" x="80.2" y="367.3" width="52.9" height="44.4" id="mask-142">
+										<g class="st169">
+											<path id="path-141" class="st2" d="M107.4,411.7c13.9,0,25.8-7.9,25.8-20.2c0-12.2-11.9-24.2-25.8-24.2
+												s-27.1,11.9-27.1,24.2C80.2,403.7,93.4,411.7,107.4,411.7L107.4,411.7z"/>
+										</g>
+									</mask>
+									<path id="Fill-64" sketch:type="MSShapeGroup" class="st170" d="M80.2,367.3h52.9v44.4H80.2V367.3z"/>
+								</g>
+								<g id="Group-69" transform="translate(15.204474, 32.663944)">
+									<g id="Clip-68">
+									</g>
+									<defs>
+										<filter id="Adobe_OpacityMaskFilter_71_" filterUnits="userSpaceOnUse" x="80.1" y="367.3" width="21.8" height="8.7">
+											<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+										</filter>
+									</defs>
+									<mask maskUnits="userSpaceOnUse" x="80.1" y="367.3" width="21.8" height="8.7" id="mask-144">
+										<g class="st171">
+											<path id="path-143" class="st2" d="M85.6,374.1c3.1,2,6.8,2.7,10.4,0.9c2.3-1.2,4.2-3.3,5.3-5.5c0.5-1,0.8-1.7,0.7-2.1
+												c-0.3-0.9-2.6,2.6-4.1,3.5c-2.5,1.6-3.9,2.6-7.9,2.5c-1.4-0.1-3.7-1-5-1.9c-2.4-1.6-4.3-3.6-4.8-3.6
+												c-0.1,0,0.5,1.1,0.8,1.6C81.9,371.6,83.9,373,85.6,374.1"/>
+										</g>
+									</mask>
+									<path id="Fill-67" sketch:type="MSShapeGroup" class="st172" d="M101.7,367.3c-0.6,0-2.6,2.8-3.9,3.6
+										c-2.3,1.5-3.7,2.5-7.1,2.5c-0.2,0-0.5,0-0.7,0c-1.4-0.1-3.7-1-5-1.9c-2.4-1.6-4.3-3.6-4.8-3.6c0,0,0,0,0,0
+										c-0.1,0,0.5,1.1,0.8,1.6c1,2,3,3.4,4.7,4.5c1.9,1.2,3.9,2,6.1,2c1.4,0,2.9-0.3,4.3-1c2.3-1.2,4.2-3.3,5.3-5.5
+										c0.5-1,0.8-1.7,0.7-2.1C101.9,367.3,101.8,367.3,101.7,367.3"/>
+								</g>
+								<g id="Group-72" transform="translate(43.460577, 23.665009)">
+									<g id="Clip-71">
+									</g>
+									<defs>
+										<filter id="Adobe_OpacityMaskFilter_72_" filterUnits="userSpaceOnUse" x="79.9" y="367" width="4.8" height="14.9">
+											<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+										</filter>
+									</defs>
+									<mask maskUnits="userSpaceOnUse" x="79.9" y="367" width="4.8" height="14.9" id="mask-146">
+										<g class="st173">
+											<path id="path-145" class="st2" d="M82.3,367c0,0,0.7,4.3,0.9,6.4c0.2,1.9-0.3,5.5-0.3,5.5s1.7,0.4,1.5,1.3
+												c-0.2,0.9-1.5-0.2-1.5-0.2s0.6,0.9,0.1,1.4c-0.5,0.5-1.1-1.7-1.1-1.7s-1.1,1.3-1.6,0.9c-0.5-0.5,0.3-1.1,0.7-1.5
+												c0.2-0.2,0.6-3,0.6-5.6c-0.1-3-0.7-5.9-0.7-5.9L82.3,367L82.3,367z"/>
+										</g>
+									</mask>
+									<path id="Fill-70" sketch:type="MSShapeGroup" class="st174" d="M79.9,367h4.8V382h-4.8V367z"/>
+								</g>
+								<g id="Group-75" transform="translate(35.723787, 18.998895)">
+									<g id="Clip-74">
+									</g>
+									<defs>
+										<filter id="Adobe_OpacityMaskFilter_73_" filterUnits="userSpaceOnUse" x="80.2" y="367.1" width="2" height="2.2">
+											<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+										</filter>
+									</defs>
+									<mask maskUnits="userSpaceOnUse" x="80.2" y="367.1" width="2" height="2.2" id="mask-148">
+										<g class="st175">
+											<path id="path-147" class="st2" d="M81.2,369.3c0.5,0,1-0.5,1-1.1c0-0.6-0.4-1.1-1-1.1c-0.5,0-1,0.5-1,1.1
+												C80.2,368.8,80.6,369.3,81.2,369.3L81.2,369.3z"/>
+										</g>
+									</mask>
+									<path id="Fill-73" sketch:type="MSShapeGroup" class="st176" d="M80.2,367.1h2v2.2h-2V367.1z"/>
+								</g>
+								<g id="Group-78" transform="translate(36.732934, 13.666194)">
+									<g id="Clip-77">
+									</g>
+									<defs>
+										<filter id="Adobe_OpacityMaskFilter_74_" filterUnits="userSpaceOnUse" x="80.3" y="367.2" width="2" height="2.2">
+											<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+										</filter>
+									</defs>
+									<mask maskUnits="userSpaceOnUse" x="80.3" y="367.2" width="2" height="2.2" id="mask-150">
+										<g class="st177">
+											<path id="path-149" class="st2" d="M81.2,369.4c0.5,0,1-0.5,1-1.1c0-0.6-0.4-1.1-1-1.1c-0.5,0-1,0.5-1,1.1
+												C80.3,368.9,80.7,369.4,81.2,369.4L81.2,369.4z"/>
+										</g>
+									</mask>
+									<path id="Fill-76" sketch:type="MSShapeGroup" class="st178" d="M80.3,367.2h2v2.2h-2V367.2z"/>
+								</g>
+								<g id="Group-81" transform="translate(38.751227, 10.333255)">
+									<g id="Clip-80">
+									</g>
+									<defs>
+										<filter id="Adobe_OpacityMaskFilter_75_" filterUnits="userSpaceOnUse" x="80.2" y="367.3" width="1.4" height="1.6">
+											<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+										</filter>
+									</defs>
+									<mask maskUnits="userSpaceOnUse" x="80.2" y="367.3" width="1.4" height="1.6" id="mask-152">
+										<g class="st179">
+											<path id="path-151" class="st2" d="M80.9,368.9c0.4,0,0.7-0.4,0.7-0.8c0-0.4-0.3-0.8-0.7-0.8c-0.4,0-0.7,0.4-0.7,0.8
+												C80.2,368.5,80.5,368.9,80.9,368.9L80.9,368.9z"/>
+										</g>
+									</mask>
+									<path id="Fill-79" sketch:type="MSShapeGroup" class="st180" d="M80.2,367.3h1.4v1.6h-1.4V367.3z"/>
+								</g>
+								<g id="Group-84" transform="translate(34.714641, 11.999724)">
+									<g id="Clip-83">
+									</g>
+									<defs>
+										<filter id="Adobe_OpacityMaskFilter_76_" filterUnits="userSpaceOnUse" x="80.1" y="367.2" width="1.4" height="1.6">
+											<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+										</filter>
+									</defs>
+									<mask maskUnits="userSpaceOnUse" x="80.1" y="367.2" width="1.4" height="1.6" id="mask-154">
+										<g class="st181">
+											<path id="path-153" class="st2" d="M80.9,368.8c0.4,0,0.7-0.4,0.7-0.8c0-0.4-0.3-0.8-0.7-0.8c-0.4,0-0.7,0.4-0.7,0.8
+												C80.1,368.5,80.5,368.8,80.9,368.8L80.9,368.8z"/>
+										</g>
+									</mask>
+									<path id="Fill-82" sketch:type="MSShapeGroup" class="st182" d="M80.1,367.2h1.4v1.6h-1.4V367.2z"/>
+								</g>
+								<g id="Group-87" transform="translate(12.177035, 12.999606)">
+									<g id="Clip-86">
+									</g>
+									<defs>
+										<filter id="Adobe_OpacityMaskFilter_77_" filterUnits="userSpaceOnUse" x="80" y="367" width="1.4" height="1.6">
+											<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+										</filter>
+									</defs>
+									<mask maskUnits="userSpaceOnUse" x="80" y="367" width="1.4" height="1.6" id="mask-156">
+										<g class="st183">
+											<path id="path-155" class="st2" d="M80.7,368.7c0.4,0,0.7-0.4,0.7-0.8s-0.3-0.8-0.7-0.8c-0.4,0-0.7,0.4-0.7,0.8
+												S80.3,368.7,80.7,368.7L80.7,368.7z"/>
+										</g>
+									</mask>
+									<path id="Fill-85" sketch:type="MSShapeGroup" class="st184" d="M80,367h1.4v1.6H80V367z"/>
+								</g>
+								<g id="Group-90" transform="translate(39.423991, 15.999251)">
+									<g id="Clip-89">
+									</g>
+									<defs>
+										<filter id="Adobe_OpacityMaskFilter_78_" filterUnits="userSpaceOnUse" x="80.1" y="367.1" width="0.9" height="1">
+											<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+										</filter>
+									</defs>
+									<mask maskUnits="userSpaceOnUse" x="80.1" y="367.1" width="0.9" height="1" id="mask-158">
+										<g class="st185">
+											<path id="path-157" class="st2" d="M80.5,368.1c0.2,0,0.4-0.2,0.4-0.5c0-0.3-0.2-0.5-0.4-0.5c-0.2,0-0.4,0.2-0.4,0.5
+												C80.1,367.8,80.3,368.1,80.5,368.1L80.5,368.1z"/>
+										</g>
+									</mask>
+									<path id="Fill-88" sketch:type="MSShapeGroup" class="st186" d="M80.1,367.1H81v1h-0.9V367.1z"/>
+								</g>
+								<g id="Group-93" transform="translate(7.467684, 16.665838)">
+									<g id="Clip-92">
+									</g>
+									<defs>
+										<filter id="Adobe_OpacityMaskFilter_79_" filterUnits="userSpaceOnUse" x="80.2" y="367.1" width="0.9" height="1">
+											<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+										</filter>
+									</defs>
+									<mask maskUnits="userSpaceOnUse" x="80.2" y="367.1" width="0.9" height="1" id="mask-160">
+										<g class="st187">
+											<path id="path-159" class="st2" d="M80.7,368.1c0.2,0,0.4-0.2,0.4-0.5c0-0.3-0.2-0.5-0.4-0.5c-0.2,0-0.4,0.2-0.4,0.5
+												C80.2,367.9,80.4,368.1,80.7,368.1L80.7,368.1z"/>
+										</g>
+									</mask>
+									<path id="Fill-91" sketch:type="MSShapeGroup" class="st188" d="M80.2,367.1h0.9v1h-0.9V367.1z"/>
+								</g>
+								<g id="Group-96" transform="translate(40.433138, 20.332071)">
+									<g id="Clip-95">
+									</g>
+									<defs>
+										<filter id="Adobe_OpacityMaskFilter_80_" filterUnits="userSpaceOnUse" x="80.1" y="367.1" width="0.9" height="1">
+											<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+										</filter>
+									</defs>
+									<mask maskUnits="userSpaceOnUse" x="80.1" y="367.1" width="0.9" height="1" id="mask-162">
+										<g class="st189">
+											<path id="path-161" class="st2" d="M80.5,368.1c0.2,0,0.4-0.2,0.4-0.5c0-0.3-0.2-0.5-0.4-0.5s-0.4,0.2-0.4,0.5
+												C80.1,367.8,80.3,368.1,80.5,368.1L80.5,368.1z"/>
+										</g>
+									</mask>
+									<path id="Fill-94" sketch:type="MSShapeGroup" class="st190" d="M80.1,367.1H81v1h-0.9V367.1z"/>
+								</g>
+								<g id="Group-99" transform="translate(5.785773, 21.665246)">
+									<g id="Clip-98">
+									</g>
+									<defs>
+										<filter id="Adobe_OpacityMaskFilter_81_" filterUnits="userSpaceOnUse" x="80" y="367.3" width="4.9" height="15">
+											<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+										</filter>
+									</defs>
+									<mask maskUnits="userSpaceOnUse" x="80" y="367.3" width="4.9" height="15" id="mask-164">
+										<g class="st191">
+											<path id="path-163" class="st2" d="M81.9,367.3c0,0-0.8,4.4-0.8,6.5c0,1.9,0.6,5.5,0.6,5.5s-1.7,0.5-1.5,1.4
+												c0.2,0.9,1.5-0.3,1.5-0.3s-0.5,0.9,0,1.4c0.5,0.5,1-1.8,1-1.8s1.2,1.3,1.6,0.8c0.5-0.5-0.4-1.1-0.8-1.5
+												c-0.2-0.2-0.8-2.9-0.9-5.5c-0.1-3,0.3-5.9,0.3-5.9s0.3-0.3-0.4-0.6L81.9,367.3L81.9,367.3z"/>
+										</g>
+									</mask>
+									<path id="Fill-97" sketch:type="MSShapeGroup" class="st192" d="M80,367.3h4.9v15H80V367.3z"/>
+								</g>
+								<g id="Group-102" transform="translate(35.051023, 45.662404)">
+									<g id="Clip-101">
+									</g>
+									<defs>
+										<filter id="Adobe_OpacityMaskFilter_82_" filterUnits="userSpaceOnUse" x="80.1" y="367.2" width="2" height="2.1">
+											<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+										</filter>
+									</defs>
+									<mask maskUnits="userSpaceOnUse" x="80.1" y="367.2" width="2" height="2.1" id="mask-166">
+										<g class="st193">
+											<path id="path-165" class="st2" d="M80.1,368.3v1c0,0,0.6-0.1,1.2-0.3c0.5-0.2,0.8-0.4,0.8-0.4v-1.4L80.1,368.3
+												L80.1,368.3z"/>
+										</g>
+									</mask>
+									<path id="Fill-100" sketch:type="MSShapeGroup" class="st194" d="M80.1,367.2h2v2.1h-2V367.2z"/>
+								</g>
+								<g id="Group-105" transform="translate(15.877239, 45.329110)">
+									<g id="Clip-104">
+									</g>
+									<defs>
+										<filter id="Adobe_OpacityMaskFilter_83_" filterUnits="userSpaceOnUse" x="80.1" y="367.2" width="1.7" height="1.8">
+											<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+										</filter>
+									</defs>
+									<mask maskUnits="userSpaceOnUse" x="80.1" y="367.2" width="1.7" height="1.8" id="mask-168">
+										<g class="st195">
+											<path id="path-167" class="st2" d="M81.8,367.9v1.1c0,0-0.4,0-1-0.2c-0.5-0.2-0.7-0.4-0.7-0.4l0.1-1.1L81.8,367.9
+												L81.8,367.9z"/>
+										</g>
+									</mask>
+									<path id="Fill-103" sketch:type="MSShapeGroup" class="st196" d="M80.1,367.2h1.7v1.8h-1.7V367.2z"/>
+								</g>
+								<g>
+									<defs>
+										<polygon id="SVGID_61_" points="81,368 82,368 81,369 										"/>
+									</defs>
+									<defs>
+										<polygon id="SVGID_62_" points="79,366 78,366 79,365 										"/>
+									</defs>
+									<clipPath id="SVGID_63_">
+										<use xlink:href="#SVGID_61_"  style="overflow:visible;"/>
+									</clipPath>
+									<clipPath id="SVGID_64_" class="st197">
+										<use xlink:href="#SVGID_62_"  style="overflow:visible;"/>
+									</clipPath>
+									<g transform="matrix(0.1162 0 0 0 94.1786 374.3341)" style="clip-path:url(#SVGID_64_);enable-background:new    ;">
+										
+											<image style="overflow:visible;" width="206" height="14" id="Image-106" xlink:href="969CA36EBCFF3D69.png"  sketch:type="MSBitmapLayer" transform="matrix(0.1162 0 0 0 94.1786 374.3341)">
+										</image>
+									</g>
+								</g>
+								<g>
+									<defs>
+										<polygon id="SVGID_65_" points="81,368 82,368 81,369 										"/>
+									</defs>
+									<defs>
+										<polygon id="SVGID_66_" points="79,366 78,366 79,365 										"/>
+									</defs>
+									<clipPath id="SVGID_67_">
+										<use xlink:href="#SVGID_65_"  style="overflow:visible;"/>
+									</clipPath>
+									<clipPath id="SVGID_68_" class="st198">
+										<use xlink:href="#SVGID_66_"  style="overflow:visible;"/>
+									</clipPath>
+									<g transform="matrix(0.1162 0 0 0 94.1786 395.9861)" style="clip-path:url(#SVGID_68_);enable-background:new    ;">
+										
+											<image style="overflow:visible;" width="206" height="202" id="Image-107" xlink:href="969CA36EBCFF3D6B.png"  sketch:type="MSBitmapLayer" transform="matrix(0.1162 0 0 0 94.1786 395.9861)">
+										</image>
+									</g>
+								</g>
+								<g>
+									<defs>
+										<polygon id="SVGID_69_" points="81,368 82,368 81,369 										"/>
+									</defs>
+									<defs>
+										<polygon id="SVGID_70_" points="79,366 78,366 79,365 										"/>
+									</defs>
+									<clipPath id="SVGID_71_">
+										<use xlink:href="#SVGID_69_"  style="overflow:visible;"/>
+									</clipPath>
+									<clipPath id="SVGID_72_" class="st199">
+										<use xlink:href="#SVGID_70_"  style="overflow:visible;"/>
+									</clipPath>
+									<g transform="matrix(0.1162 0 0 0 115.7988 388.6151)" style="clip-path:url(#SVGID_72_);enable-background:new    ;">
+										
+											<image style="overflow:visible;" width="20" height="24" id="Image-108" xlink:href="969CA36EBCFF3D68.png"  sketch:type="MSBitmapLayer" transform="matrix(0.1162 0 0 0 115.7988 388.6151)">
+										</image>
+									</g>
+								</g>
+								<g>
+									<defs>
+										<polygon id="SVGID_73_" points="81,368 82,368 81,369 										"/>
+									</defs>
+									<defs>
+										<polygon id="SVGID_74_" points="79,366 78,366 79,365 										"/>
+									</defs>
+									<clipPath id="SVGID_75_">
+										<use xlink:href="#SVGID_73_"  style="overflow:visible;"/>
+									</clipPath>
+									<clipPath id="SVGID_76_" class="st200">
+										<use xlink:href="#SVGID_74_"  style="overflow:visible;"/>
+									</clipPath>
+									<g transform="matrix(0.1162 0 0 0 116.7287 383.3174)" style="clip-path:url(#SVGID_76_);enable-background:new    ;">
+										
+											<image style="overflow:visible;" width="12" height="24" id="Image-109" xlink:href="969CA36EBCFF3D6F.png"  sketch:type="MSBitmapLayer" transform="matrix(0.1162 0 0 0 116.7287 383.3174)">
+										</image>
+									</g>
+								</g>
+								<g>
+									<defs>
+										<polygon id="SVGID_77_" points="81,368 82,368 81,369 										"/>
+									</defs>
+									<defs>
+										<polygon id="SVGID_78_" points="79,366 78,366 79,365 										"/>
+									</defs>
+									<clipPath id="SVGID_79_">
+										<use xlink:href="#SVGID_77_"  style="overflow:visible;"/>
+									</clipPath>
+									<clipPath id="SVGID_80_" class="st201">
+										<use xlink:href="#SVGID_78_"  style="overflow:visible;"/>
+									</clipPath>
+									<g transform="matrix(0.1162 0 0 0 114.6364 381.0139)" style="clip-path:url(#SVGID_80_);enable-background:new    ;">
+										
+											<image style="overflow:visible;" width="16" height="18" id="Image-110" xlink:href="969CA36EBCFF3D8C.png"  sketch:type="MSBitmapLayer" transform="matrix(0.1162 0 0 0 114.6364 381.0139)">
+										</image>
+									</g>
+								</g>
+								<g id="Group-113" transform="translate(18.231914, 10.999843)">
+									<g id="Clip-112">
+									</g>
+									<defs>
+										<filter id="Adobe_OpacityMaskFilter_84_" filterUnits="userSpaceOnUse" x="80.1" y="367.2" width="15.4" height="12">
+											<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+										</filter>
+									</defs>
+									<mask maskUnits="userSpaceOnUse" x="80.1" y="367.2" width="15.4" height="12" id="mask-170">
+										<g class="st202">
+											<path id="path-169" class="st2" d="M95.4,373.3c0-3.3-3.4-6-7.7-6c-4.2,0-7.7,2.7-7.7,6c0,3.3,3.4,6,7.7,6
+												C92,379.3,95.4,376.6,95.4,373.3L95.4,373.3z"/>
+										</g>
+									</mask>
+									<path id="Fill-111" sketch:type="MSShapeGroup" class="st203" d="M80.1,367.2h15.4v12H80.1V367.2z"/>
+								</g>
+								<g id="Group-116" transform="translate(23.277647, 14.666075)">
+									<g id="Clip-115">
+									</g>
+									<defs>
+										<filter id="Adobe_OpacityMaskFilter_85_" filterUnits="userSpaceOnUse" x="80.1" y="367.2" width="5.1" height="4.7">
+											<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+										</filter>
+									</defs>
+									<mask maskUnits="userSpaceOnUse" x="80.1" y="367.2" width="5.1" height="4.7" id="mask-172">
+										<g class="st204">
+											<path id="path-171" class="st2" d="M82.8,367.3c-1.4,0-2.6,0.9-2.6,2.2c0,1.3,1,2.3,2.4,2.4c1.4,0,2.6-0.9,2.6-2.2
+												C85.3,368.4,84.2,367.3,82.8,367.3L82.8,367.3z"/>
+										</g>
+									</mask>
+									<path id="Fill-114" sketch:type="MSShapeGroup" class="st205" d="M80.1,367.2h5.1v4.7h-5.1V367.2z"/>
+								</g>
+								<g id="Group-119" transform="translate(15.877239, 23.998303)">
+									<g id="Clip-118">
+									</g>
+									<defs>
+										<filter id="Adobe_OpacityMaskFilter_86_" filterUnits="userSpaceOnUse" x="79.2" y="366.1" width="22.2" height="11.9">
+											<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+										</filter>
+									</defs>
+									<mask maskUnits="userSpaceOnUse" x="79.2" y="366.1" width="22.2" height="11.9" id="mask-174">
+										<g class="st206">
+											<path id="path-173" class="st2" d="M83.9,368.2c0,0,1.8,3.2,6.4,3.2c4.7,0,5.7-4.3,7.9-4.3c2.2,0,3.2,5-0.7,7.9
+												c-3.9,3-11,2.4-14,0.4c-3-2.1-4.4-6.3-2.9-7.8C82.1,366.1,83.9,368.2,83.9,368.2L83.9,368.2z"/>
+										</g>
+									</mask>
+									<path id="Fill-117" sketch:type="MSShapeGroup" class="st207" d="M79.2,366.1h22.2V378H79.2V366.1z"/>
+								</g>
+								<path id="Fill-120" sketch:type="MSShapeGroup" class="st208" d="M99.8,392.2l-0.8,0.4c0,0.1,0.5,1,1.7,1.9
+									c0.6,0.4,1.3,0.9,2.2,1.2c0.9,0.3,2,0.6,3.3,0.6c1.3,0,2.4-0.3,3.3-0.8c1.4-0.7,2.3-1.7,3-2.4c0.4-0.4,0.7-0.7,0.9-0.8
+									c0.1-0.1,0.2-0.1,0.3-0.2c0.1,0,0.2,0,0.3,0c0.1,0,0.2,0,0.3,0.1c0.1,0.1,0.3,0.3,0.5,0.7c0.1,0.3,0.2,0.8,0.2,1.3
+									c0,0.7-0.2,1.4-0.5,2.1c-0.4,0.7-0.9,1.4-1.7,2.1c-0.8,0.6-1.9,1.1-3,1.4c-1.1,0.3-2.4,0.5-3.6,0.5c-1.3,0-2.5-0.2-3.6-0.4
+									c-1.1-0.3-2-0.7-2.7-1.1c-1-0.7-1.8-1.6-2.3-2.6c-0.5-1-0.8-2-0.8-2.7c0-0.3,0-0.5,0.1-0.7c0.1-0.2,0.1-0.3,0.2-0.4
+									c0.1-0.1,0.2-0.2,0.3-0.2c0.1,0,0.1,0,0.2,0c0.1,0,0.3,0,0.4,0.1c0.2,0.1,0.5,0.3,0.7,0.5c0.1,0.1,0.2,0.2,0.2,0.2l0.1,0.1
+									l0,0l0,0l0.4-0.3l-0.4,0.3l0,0l0.4-0.3l-0.4,0.3L99.8,392.2l-0.8,0.4L99.8,392.2l0.7-0.6c0,0-0.3-0.4-0.8-0.7
+									c-0.2-0.2-0.5-0.4-0.9-0.5c-0.3-0.1-0.7-0.3-1.2-0.3c-0.3,0-0.6,0.1-1,0.2c-0.3,0.1-0.6,0.3-0.9,0.6
+									c-0.3,0.3-0.5,0.7-0.7,1.1c-0.1,0.4-0.2,0.8-0.2,1.3c0,1.2,0.4,2.4,1.1,3.6c0.7,1.2,1.6,2.3,2.9,3.2c0.9,0.6,2,1.1,3.3,1.4
+									c1.3,0.3,2.6,0.5,4.1,0.5c1.4,0,2.8-0.2,4.1-0.5c1.3-0.4,2.6-0.9,3.7-1.7c1.1-0.8,1.8-1.8,2.3-2.7c0.5-1,0.7-2,0.7-2.9
+									c0-1-0.2-1.9-0.7-2.6c-0.2-0.4-0.5-0.7-0.9-0.9c-0.4-0.2-0.8-0.4-1.3-0.4c-0.4,0-0.8,0.1-1.2,0.3c-0.6,0.3-1.1,0.7-1.5,1.2
+									c-0.7,0.7-1.3,1.4-2.1,1.9c-0.4,0.3-0.8,0.5-1.3,0.7c-0.5,0.2-1.1,0.3-1.7,0.3c-1.1,0-1.9-0.2-2.7-0.4
+									c-1.1-0.4-1.8-1-2.3-1.5c-0.2-0.2-0.4-0.5-0.5-0.6c-0.1-0.1-0.1-0.1-0.1-0.2l0,0l0,0l-0.4,0.2l0.4-0.2l0,0l-0.4,0.2l0.4-0.2
+									l0-0.1l-0.1-0.1L99.8,392.2"/>
+								<g id="Group-123" transform="translate(21.595736, 30.664180)">
+									<g id="Clip-122">
+									</g>
+									<defs>
+										<filter id="Adobe_OpacityMaskFilter_87_" filterUnits="userSpaceOnUse" x="80.1" y="367" width="10" height="2.6">
+											<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+										</filter>
+									</defs>
+									<mask maskUnits="userSpaceOnUse" x="80.1" y="367" width="10" height="2.6" id="mask-176">
+										<g class="st209">
+											<path id="path-175" class="st2" d="M81.3,369.2c-1.2-0.3-1.1-0.3-1.1-0.3s1.7-1.9,4.5-1.9c2.8,0,5.4,1.5,5.4,1.5
+												s-1.8,1.2-4.5,1.2C84,369.7,82.5,369.5,81.3,369.2L81.3,369.2z"/>
+										</g>
+									</mask>
+									<path id="Fill-121" sketch:type="MSShapeGroup" class="st210" d="M80.1,367h10v2.6h-10V367z"/>
+								</g>
+								<g id="Group-126" transform="translate(12.849799, 0.001145)">
+									<g id="Clip-125">
+									</g>
+									<defs>
+										<filter id="Adobe_OpacityMaskFilter_88_" filterUnits="userSpaceOnUse" x="79.4" y="366.5" width="17.2" height="8.4">
+											<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+										</filter>
+									</defs>
+									<mask maskUnits="userSpaceOnUse" x="79.4" y="366.5" width="17.2" height="8.4" id="mask-178">
+										<g class="st211">
+											<path id="path-177" class="st2" d="M92.2,370.1c3.1,1,4.4,0.6,4.4,0.6s-3.1,4.3-7.7,2.6c-3-1.1-4.9-1.1-6.3-1
+												c-0.8,0-1.4,0.1-1.8-0.1c-1.3-0.5,0.6-4.5,3.6-5C87.5,366.5,89.3,369.2,92.2,370.1L92.2,370.1z"/>
+										</g>
+									</mask>
+									<path id="Fill-124" sketch:type="MSShapeGroup" class="st212" d="M79.4,366.5h17.2v8.4H79.4V366.5z"/>
+								</g>
+								<path id="Fill-127" sketch:type="MSShapeGroup" class="st213" d="M92.6,416.7c0,0,0.1,0,0.3,0c0.3,0,0.7,0.1,1.1,0.1
+									c0.2,0,0.4,0.1,0.5,0.1c0.1,0,0.2,0.1,0.3,0.1c0.1,0.1,0.2,0.1,0.3,0c0.1-0.1,0.1-0.2,0-0.3c-0.1-0.1-0.2-0.1-0.3-0.2
+									c-0.2-0.1-0.4-0.1-0.6-0.2c-0.7-0.1-1.5-0.2-1.5-0.2c-0.1,0-0.2,0.1-0.2,0.2S92.5,416.7,92.6,416.7"/>
+								<path id="Fill-128" sketch:type="MSShapeGroup" class="st213" d="M92.9,416.5c0,0,0.3-0.2,0.5-0.4c0.1-0.1,0.3-0.3,0.4-0.5
+									c0.1-0.2,0.2-0.4,0.2-0.6c0-0.1-0.1-0.2-0.2-0.2c-0.1,0-0.2,0.1-0.2,0.2c0,0.1,0,0.3-0.1,0.4c-0.1,0.2-0.3,0.4-0.5,0.5
+									c-0.1,0.1-0.1,0.1-0.2,0.1l-0.1,0l0,0l0,0c-0.1,0.1-0.1,0.2-0.1,0.3C92.6,416.6,92.8,416.6,92.9,416.5"/>
+								<path id="Fill-129" sketch:type="MSShapeGroup" class="st213" d="M119.7,416.3c0,0-0.5,0-1,0.1c-0.3,0-0.6,0.1-0.8,0.1
+									c-0.1,0-0.2,0.1-0.3,0.1c-0.1,0-0.2,0.1-0.3,0.2c-0.1,0.1-0.1,0.2,0,0.3c0.1,0.1,0.2,0.1,0.3,0c0,0,0.1,0,0.1-0.1
+									c0.1-0.1,0.3-0.1,0.5-0.1c0.3-0.1,0.7-0.1,1-0.1c0.1,0,0.3,0,0.4,0c0.1,0,0.1,0,0.1,0c0.1,0,0.2-0.1,0.2-0.2
+									C119.9,416.4,119.8,416.3,119.7,416.3"/>
+								<path id="Fill-130" sketch:type="MSShapeGroup" class="st213" d="M119.7,416.2L119.7,416.2c-0.1,0-0.3-0.2-0.5-0.4
+									c-0.1-0.1-0.2-0.2-0.3-0.3c-0.1-0.1-0.1-0.2-0.1-0.4c0-0.1-0.1-0.2-0.2-0.2c-0.1,0-0.2,0.1-0.2,0.2c0,0.2,0.1,0.4,0.2,0.6
+									c0.2,0.3,0.4,0.5,0.6,0.6c0.2,0.1,0.3,0.2,0.3,0.2c0.1,0.1,0.3,0,0.3-0.1C119.8,416.4,119.8,416.2,119.7,416.2"/>
+								<g id="Group-133" transform="translate(0.067276, 23.665009)">
+									<g id="Clip-132">
+									</g>
+									<defs>
+										<filter id="Adobe_OpacityMaskFilter_89_" filterUnits="userSpaceOnUse" x="80" y="367" width="48.5" height="22.7">
+											<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+										</filter>
+									</defs>
+									<mask maskUnits="userSpaceOnUse" x="80" y="367" width="48.5" height="22.7" id="mask-180">
+										<g class="st214">
+											<path id="path-179" class="st2" d="M110.1,388.4c4.7-0.5,9-1.5,13.6-4.4c2-1.3,4.8-3.3,4.7-4.2c-0.1-1.8-6.4,1.2-9.5,2.3
+												c-5.5,2-11.1,2.7-19.2,1.5c-2.8-0.4-6.7-1.3-11.2-5.3c-2-1.7-4.6-4.1-5.7-6.3c-1.5-2.7-1.4-5.1-2-5
+												c-0.4,0.1-0.9,2.7-0.2,5.5C83.6,384.2,98.4,389.7,110.1,388.4L110.1,388.4z"/>
+										</g>
+									</mask>
+									<path id="Fill-131" sketch:type="MSShapeGroup" class="st215" d="M80,367h48.5v22.7H80V367z"/>
+								</g>
+							</g>
+						</g>
+					</g>
+					<g id="Group-Copy-12" transform="translate(99.000000, 0.933070)">
+						<path id="Rectangle-45_2_" sketch:type="MSShapeGroup" class="st216" d="M84,367h129c2.2,0,4,1.8,4,4v69c0,2.2-1.8,4-4,4H84
+							c-2.2,0-4-1.8-4-4v-69C80,368.8,81.8,367,84,367z"/>
+						<text transform="matrix(1 0 0 1 88 391)" class="st2 st112 st113">实战健康度</text>
+						<text transform="matrix(1 0 0 1 88 409)" class="st2 st112 st114">战斗值：80%</text>
+						<text transform="matrix(1 0 0 1 88 426)" class="st2 st112 st114">系统健康值：78%</text>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

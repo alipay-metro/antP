@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="592px" height="653px" viewBox="0 0 592 653" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="首页-copy" sketch:type="MSArtboardGroup" transform="translate(0.000000, -1691.000000)">
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(0.000000, 1690.000000)">
+                <path d="M0,39.0021874 L501.199473,39.0021874 C501.199473,39.0021874 582.000002,37.579608 582,107.291007 C581.999998,177.002406 581.999998,654 581.999998,654" id="Path-553-Copy-5" stroke="#212E44" stroke-width="20" sketch:type="MSShapeGroup"></path>
+                <path d="M0,39.0021874 L501.199473,39.0021874 C501.199473,39.0021874 582.000002,37.579608 582,107.291007 C581.999998,177.002406 581.999998,654 581.999998,654" id="Path-553-Copy-4" stroke="#364A6B" stroke-width="2" sketch:type="MSShapeGroup"></path>
+                <g id="Path-749-+-Path-749-Copy-2" transform="translate(32.718750, 0.447930)" fill="#212E44" sketch:type="MSShapeGroup">
+                    <path d="M18.3247768,0.564709734 L40.694385,0.564709734 L60,38.262366 L0.448964833,38.262366 L18.3247768,0.564709734 Z" id="Path-749"></path>
+                    <path d="M18.3247768,34.9176509 L40.694385,34.9176509 L60,72.6153072 L0.448964833,72.6153072 L18.3247768,34.9176509 Z" id="Path-749-Copy" transform="translate(30.224482, 53.766479) scale(1, -1) translate(-30.224482, -53.766479) "></path>
+                </g>
+                <g id="Group-Copy-17" transform="translate(235.718750, 19.447930)" sketch:type="MSShapeGroup">
+                    <path d="M47,35.9937109 L47,115.5" id="Line" stroke="#212E44" stroke-width="4" stroke-linecap="square"></path>
+                    <rect id="Rectangle-9" fill="#212E44" x="35" y="76" width="25" height="8" rx="5"></rect>
+                    <rect id="Rectangle-9-Copy" fill="#212E44" x="35" y="86" width="25" height="8" rx="5"></rect>
+                    <circle id="Oval-16" fill="#212E44" cx="47" cy="83" r="5"></circle>
+                    <path d="M47.5,128.898423 L2.18345521,128.898423 C-0.020070134,128.898423 -0.540821119,127.631921 1.02148846,126.069611 L37.0910996,90 L47.5,90.2775105 L57.9089004,90 L93.9785115,126.069611 C95.5408211,127.631921 95.0200701,128.898423 92.8165448,128.898423 L47.5,128.898423 Z" id="Path-752" fill="#212E44"></path>
+                    <circle id="Oval-17" fill="#212E44" cx="48.5" cy="124.5" r="16.5"></circle>
+                    <rect id="Rectangle-12" fill="#212E44" x="40" y="0" width="14" height="38" rx="5"></rect>
+                </g>
+                <rect id="Rectangle-12-Copy-4" fill="#212E44" sketch:type="MSShapeGroup" x="369.71875" y="24.44793" width="14" height="29" rx="5"></rect>
+                <rect id="Rectangle-12-Copy-5" fill="#212E44" sketch:type="MSShapeGroup" x="482.71875" y="21.9625785" width="4" height="32" rx="5"></rect>
+                <rect id="Rectangle-12-Copy-6" fill="#212E44" sketch:type="MSShapeGroup" x="492.71875" y="21.9625785" width="4" height="32" rx="5"></rect>
+                <path d="M95.3496094,31.2584769 C95.3496094,31.2584769 104.781706,98.9462045 168.037338,98.9462051 C231.292969,98.9462058 237.982187,29.0013561 237.982187,29.0013561" id="Path-756-Copy-8" stroke="#212E44" stroke-width="4" sketch:type="MSShapeGroup"></path>
+                <path d="M133.086173,31.2584769 C133.086173,31.2584769 142.51827,148.946204 205.773901,148.946205 C269.029532,148.946206 275.71875,29.0013561 275.71875,29.0013561" id="Path-756-Copy-9" stroke="#212E44" stroke-width="4" sketch:type="MSShapeGroup"></path>
+                <path d="M330.598409,30.4304854 C330.598409,30.4304854 338.467716,104.946205 391.242617,104.946205 C444.017517,104.946206 449.598409,29.0013561 449.598409,29.0013561" id="Path-756-Copy-10" stroke="#212E44" stroke-width="4" sketch:type="MSShapeGroup"></path>
+                <path d="M390.598409,29.9882952 C390.598409,29.9882952 396.032855,81.4479297 432.478549,81.44793 C468.924243,81.4479303 472.778338,29.0013561 472.778338,29.0013561" id="Path-756-Copy-11" stroke="#212E44" stroke-width="4" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

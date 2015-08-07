@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="992px" height="205px" viewBox="0 0 992 205" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="首页-copy" sketch:type="MSArtboardGroup" transform="translate(-71.000000, -2583.000000)">
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(66.000000, 2583.000000)">
+                <circle id="Oval-63-Copy-3" opacity="0.117479011" fill="#FFFFFF" sketch:type="MSShapeGroup" cx="135.397847" cy="4.62769679" r="4.10215336"></circle>
+                <polygon id="Star-1-Copy-2" opacity="0.612639925" fill="#3E5171" sketch:type="MSShapeGroup" transform="translate(763.588808, 164.595313) rotate(-16.000000) translate(-763.588808, -164.595313) " points="763.588808 169.095313 758.29874 171.876465 759.309053 165.985889 755.029299 161.81416 760.943774 160.954736 763.588808 155.595313 766.233841 160.954736 772.148316 161.81416 767.868562 165.985889 768.878875 171.876465 "></polygon>
+                <polygon id="Star-1-Copy" opacity="0.304512593" fill="#3E5171" sketch:type="MSShapeGroup" transform="translate(15.588808, 193.595313) rotate(34.000000) translate(-15.588808, -193.595313) " points="15.5888077 199.095313 9.1231699 202.494499 10.3579968 195.294906 5.12718599 190.196126 12.3559888 189.145719 15.5888077 182.595313 18.8216266 189.145719 26.0504294 190.196126 20.8196185 195.294906 22.0544454 202.494499 "></polygon>
+                <polygon id="Star-1-Copy-3" opacity="0.426597481" fill="#3E5171" sketch:type="MSShapeGroup" transform="translate(980.566475, 149.110694) rotate(-330.000000) translate(-980.566475, -149.110694) " points="980.566475 157.360694 970.868018 162.459474 972.720259 151.660084 964.874042 144.011913 975.717247 142.436304 980.566475 132.610694 985.415703 142.436304 996.258907 144.011913 988.412691 151.660084 990.264932 162.459474 "></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
