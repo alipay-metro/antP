@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1184px" height="60px" viewBox="0 0 1184 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0.588807671" y="0" width="1184" height="21"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="首页-copy" sketch:type="MSArtboardGroup" transform="translate(0.000000, -2346.000000)">
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(-1.000000, 2346.000000)">
+                <g>
+                    <rect id="Rectangle-43" fill="#324463" sketch:type="MSShapeGroup" x="0.588807671" y="0" width="1184" height="60"></rect>
+                    <g id="Rectangle-43-Copy">
+                        <use fill="#324463" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                        <use fill-opacity="0.12389606" fill="#FFFFFF" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

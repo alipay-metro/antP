@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="296px" height="123px" viewBox="0 0 296 123" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="首页" sketch:type="MSArtboardGroup" transform="translate(-84.000000, -206.000000)" fill="#F4F4F4">
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(84.000000, 206.000000)">
+                <g sketch:type="MSShapeGroup">
+                    <rect id="Rectangle-56" x="0" y="0" width="195" height="21" rx="40"></rect>
+                    <rect id="Rectangle-56-Copy" x="24" y="32" width="134" height="21" rx="40"></rect>
+                    <rect id="Rectangle-56-Copy-8" x="191" y="50" width="70" height="11" rx="40"></rect>
+                    <rect id="Rectangle-56-Copy-2" x="70" y="72" width="195" height="19" rx="40"></rect>
+                    <rect id="Rectangle-56-Copy-9" x="152" y="102" width="144" height="21" rx="40"></rect>
+                    <path d="M150,21 L24,21 L38.5039541,21 C41.5393364,21 44,23.4686147 44,26.5 C44,29.5375661 41.5344795,32 38.5039541,32 L24,32 L150,32 L106.496046,32 C103.460664,32 101,29.5313853 101,26.5 C101,23.4624339 103.465521,21 106.496046,21 L150,21 Z" id="Rectangle-56-Copy-5"></path>
+                    <path d="M138,53 L88.4057683,53 C87.9276289,53 87.4578755,53.0351789 86.9989377,53.1030846 L86.9989377,53.1030846 C91.5801127,53.7817575 95.0952381,57.7294682 95.0952381,62.5 C95.0952381,67.2695441 91.5884541,71.2181527 87.0010623,71.8969154 C87.4594427,71.9648217 87.9284958,72 88.4057683,72 L138,72 L127.667673,72 C122.420412,72 118.166667,67.7478587 118.166667,62.5 C118.166667,57.2532949 122.410209,53 127.667673,53 L138,53 Z" id="Rectangle-56-Copy-6"></path>
+                    <path d="M250,61 L199,61 L199,61 L201.592161,61 C204.631427,61 207.095238,63.4686147 207.095238,66.5 C207.095238,69.5375661 204.624652,72 201.592161,72 L199,72 L250,72 L235.669743,72 C232.630478,72 230.166667,69.5313853 230.166667,66.5 C230.166667,63.4624339 232.637253,61 235.669743,61 L250,61 Z" id="Rectangle-56-Copy-7"></path>
+                    <path d="M226,91 L175,91 L175,91 L177.592161,91 C180.631427,91 183.095238,93.4686147 183.095238,96.5 C183.095238,99.5375661 180.624652,102 177.592161,102 L175,102 L226,102 L211.669743,102 C208.630478,102 206.166667,99.5313853 206.166667,96.5 C206.166667,93.4624339 208.637253,91 211.669743,91 L226,91 Z" id="Rectangle-56-Copy-10"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

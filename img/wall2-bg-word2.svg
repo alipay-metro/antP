@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="77px" height="111px" viewBox="0 0 77 111" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 5 Copy 4 + Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="首页-copy" sketch:type="MSArtboardGroup" transform="translate(0.000000, -837.000000)">
+            <g id="Rectangle-5-Copy-4-+-Shape" sketch:type="MSLayerGroup" transform="translate(-33.000000, 837.000000)">
+                <rect id="Rectangle-5-Copy-4" stroke="#364A6B" stroke-width="8" opacity="0.152926772" fill="#182741" sketch:type="MSShapeGroup" x="0.337201287" y="0.366311722" width="109" height="110.445313" rx="5"></rect>
+                <path d="M8.33720129,5.36263652 L8.33720129,5.36263652 L8.33720129,105.815299 C8.33720129,104.156497 6.98954588,102.811624 5.33985909,102.811624 L104.334543,102.811624 C102.68168,102.811624 101.337201,104.154517 101.337201,105.815299 L101.337201,5.36263652 C101.337201,7.02143891 102.684857,8.36631172 104.334543,8.36631172 L5.33985909,8.36631172 C6.9927226,8.36631172 8.33720129,7.02341865 8.33720129,5.36263652 L8.33720129,5.36263652 Z M0.337201287,5.36263652 C0.337201287,2.60324253 2.57633972,0.366311722 5.33985909,0.366311722 L104.334543,0.366311722 C107.097435,0.366311722 109.337201,2.59745699 109.337201,5.36263652 L109.337201,105.815299 C109.337201,108.574693 107.098063,110.811624 104.334543,110.811624 L5.33985909,110.811624 C2.57696748,110.811624 0.337201287,108.580479 0.337201287,105.815299 L0.337201287,5.36263652 L0.337201287,5.36263652 Z" id="Shape" fill="#364A6B" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
